@@ -1,0 +1,1 @@
+import{C as o}from"./cc364cec.js";import"./index.21fdd5d3.js";import"./21b5f3fd.js";import"./c8ca9738.js";import"./de3119a2.js";class n extends o{getUSBVersion=async()=>0;getRFVersion=async()=>0;getDeviceIsBoot=async()=>!0}export{n as RY6602Help};

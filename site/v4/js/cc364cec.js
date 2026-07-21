@@ -1,0 +1,1 @@
+import{ap as n}from"./index.21fdd5d3.js";import{C as c}from"./21b5f3fd.js";class r extends c{upgrade=async(e,t)=>{t(0);const o=new n(this.deviceType),s=await o.upgrade_usb(e,20480,10,t);return o.destory(),t(1),s};supportsLightSync=async()=>this.deviceType.connect==="usb"}export{r as C};

@@ -1,0 +1,1 @@
+import{aw as r}from"./index.21fdd5d3.js";import{_ as a}from"./53337281.js";import{f as o}from"./cbef6803.js";const e=o(r(a).Keyboard_19_TK35_Knob_KeyMappings);export{e as Keyboard_19_TK35_Knob_FirmwareUpgrade};

@@ -174,7 +174,7 @@ function serveStatic(siteDir, req, res) {
   } catch {
     rel = req.url.split('?')[0];
   }
-  if (rel === '/' || rel === '') rel = '/index.html';
+  if (rel === '' || rel.endsWith('/')) rel += 'index.html';
 
   const full = path.join(siteDir, path.normalize(rel).replace(/^([\\/])+/, ''));
   if (!full.startsWith(siteDir)) {
@@ -182,10 +182,16 @@ function serveStatic(siteDir, req, res) {
     return res.end('forbidden');
   }
 
+  // Two separate single-page apps live here: the root V5 configurator and the
+  // V4 one under /v4/. A miss must fall back to the index.html of the app the
+  // request belongs to, or /v4/ would silently re-serve the root app and the
+  // V4 handoff would loop.
+  const appRoot = /^\/v4(\/|$)/.test(rel) ? path.join(siteDir, 'v4') : siteDir;
+
   fs.stat(full, (err, st) => {
     if (err || !st.isFile()) {
       // SPA fallback: unknown paths return index.html so client routing works.
-      return fs.readFile(path.join(siteDir, 'index.html'), (e2, buf) => {
+      return fs.readFile(path.join(appRoot, 'index.html'), (e2, buf) => {
         if (e2) { res.writeHead(404); return res.end('not found'); }
         res.writeHead(200, { 'Content-Type': MIME['.html'] });
         res.end(buf);

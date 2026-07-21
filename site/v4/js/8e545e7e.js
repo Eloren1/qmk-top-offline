@@ -1,0 +1,1 @@
+const e=r=>{if(r.length===0)return"Other";const t=r[0]??"";return/[\p{Script=Hiragana}\p{Script=Katakana}]/u.test(t)?"Japanese":/[\p{Script=Hangul}]/u.test(t)?"Korean":/[\p{Script=Han}]/u.test(t)?"Chinese":"Other"};export{e as g};

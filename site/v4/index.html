@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+
+        <link
+            rel="icon"
+            href="./assets/ico/favicon.f2182f19.ico"
+            type="image/x-icon"
+        />
+        <!-- 
+            禁用浏览器缓存，确保每次都加载最新版本
+
+            Cache-Control 详细说明:
+            - no-cache: 强制浏览器在使用缓存前向服务器验证资源是否已更新
+            - no-store: 禁止浏览器和代理服务器存储任何缓存副本
+            - must-revalidate: 缓存过期后必须向原服务器验证
+            - max-age=0: 设置缓存最大生存时间为0秒，立即过期
+            - proxy-revalidate: 要求代理服务器在缓存过期后重新验证
+            - s-maxage=0: 设置共享缓存(如CDN)的最大生存时间为0秒
+            
+            这些设置确保每次刷新都能获取到最新的代码更改
+        -->
+        <meta
+            http-equiv="Cache-Control"
+            content="no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate, s-maxage=0"
+        />
+        <!-- 兼容旧版浏览器的缓存控制 -->
+        <meta http-equiv="Pragma" content="no-cache" />
+        <!-- 设置过期时间为0，强制重新验证 -->
+        <meta http-equiv="Expires" content="0" />
+        <!-- 确保IE浏览器使用最新渲染引擎 -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>GearHub</title>
+        
+        <style>
+            .welcome-placeholder {
+                position: fixed;
+                inset: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 24px;
+                background: #000;
+                pointer-events: none;
+            }
+
+            .welcome-placeholder__logo {
+                height: min(30vh, 230px);
+                width: auto;
+                object-fit: contain;
+            }
+
+            .welcome-placeholder__progress {
+                width: min(280px, 70vw);
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 10px;
+            }
+
+            .welcome-placeholder__pct {
+                color: rgba(255, 255, 255, 0.88);
+                font-size: 14px;
+                font-variant-numeric: tabular-nums;
+                letter-spacing: 0.04em;
+            }
+
+            .welcome-placeholder__track {
+                width: 100%;
+                height: 4px;
+                border-radius: 2px;
+                background: rgba(255, 255, 255, 0.12);
+                overflow: hidden;
+            }
+
+            .welcome-placeholder__fill {
+                height: 100%;
+                width: 0%;
+                border-radius: 2px;
+                background: linear-gradient(90deg, #6fd6ff, #a78bfa);
+                transition: width 0.22s ease-out;
+            }
+
+            .welcome-placeholder__stuck-tip {
+                display: none;
+                width: min(560px, 82vw);
+                color: rgba(255, 255, 255, 0.72);
+                font-size: 13px;
+                line-height: 1.6;
+                text-align: center;
+            }
+        </style>
+      <script type="module" crossorigin src="./js/index.21fdd5d3.js"></script>
+      <link rel="stylesheet" href="./assets/css/index.755a37e6.css">
+    </head>
+
+    <body>
+        <div id="app"></div>
+        <div id="app-preload">
+            <div class="welcome-placeholder">
+                <img
+                    class="welcome-placeholder__logo"
+                    src="./assets/images/logo.e3fecafb.png"
+                    alt=""
+                    aria-hidden="true"
+                />
+                <div
+                    class="welcome-placeholder__progress"
+                    id="welcome-load-progress"
+                    role="progressbar"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                    aria-valuenow="0"
+                    aria-label="资源加载进度"
+                >
+                    <span class="welcome-placeholder__pct" id="welcome-load-pct">0%</span>
+                    <div class="welcome-placeholder__track">
+                        <div
+                            class="welcome-placeholder__fill"
+                            id="welcome-load-bar-fill"
+                        ></div>
+                    </div>
+                </div>
+                <div
+                    class="welcome-placeholder__stuck-tip"
+                    id="welcome-load-stuck-tip"
+                    aria-live="polite"
+                    aria-hidden="true"
+                ></div>
+            </div>
+        </div>
+        <script>
+            (function () {
+                var K = [
+                    "welcome-load-pct",
+                    "welcome-load-bar-fill",
+                    "welcome-load-progress",
+                    "__skin2PreloadDonePromise",
+                    "__skin2PreloadResolve",
+                    "__skin2PreloadSetToDone",
+                    "app-preload",
+                    ".welcome-placeholder__logo",
+                    "hm.baidu.com",
+                    "welcome-load-stuck-tip",
+                    "currentLanguage",
+                    "auto",
+                ];
+                var I = {
+                    slow: {
+                        cn: "检测到您的网络环境较差，加载时间可能会较长，请耐心等待。",
+                        tw: "偵測到您的網路環境較差，載入時間可能會較長，請耐心等待。",
+                        jp: "ネットワーク環境が不安定なことを検出しました。読み込みに時間がかかる場合がありますので、しばらくお待ちください。",
+                        en: "A poor network connection was detected. Loading may take longer, so please wait patiently.",
+                        kr: "네트워크 환경이 좋지 않은 것으로 감지되었습니다. 로딩 시간이 길어질 수 있으니 잠시 기다려 주세요.",
+                        ru: "Обнаружено слабое сетевое соединение. Загрузка может занять больше времени, пожалуйста, подождите.",
+                        vn: "Phát hiện kết nối mạng của bạn không ổn định, thời gian tải có thể lâu hơn. Vui lòng kiên nhẫn chờ.",
+                        ua: "Виявлено слабке мережеве з'єднання. Завантаження може тривати довше, будь ласка, зачекайте.",
+                        fa: "ضعف در وضعیت شبکه شما تشخیص داده شد. بارگذاری ممکن است بیشتر طول بکشد، لطفا کمی منتظر بمانید.",
+                        ar: "تم اكتشاف ضعف في اتصال الشبكة لديك. قد يستغرق التحميل وقتا أطول، يرجى الانتظار بصبر.",
+                        fr: "Une connexion réseau faible a été détectée. Le chargement peut prendre plus de temps, veuillez patienter.",
+                        de: "Eine schwache Netzwerkverbindung wurde erkannt. Das Laden kann länger dauern, bitte warten Sie.",
+                        es: "Se detectó una conexión de red deficiente. La carga puede tardar más, espera con paciencia.",
+                        nl: "Er is een zwakke netwerkverbinding gedetecteerd. Laden kan langer duren, even geduld.",
+                        tr: "Ağ bağlantınızın zayıf olduğu algılandı. Yükleme daha uzun sürebilir, lütfen bekleyin.",
+                        pl: "Wykryto słabe połączenie sieciowe. Ładowanie może potrwać dłużej, proszę cierpliwie czekać.",
+                        it: "È stata rilevata una connessione di rete debole. Il caricamento potrebbe richiedere più tempo, attendi pazientemente.",
+                        pt: "Foi detectada uma conexão de rede ruim. O carregamento pode demorar mais, aguarde com paciência.",
+                        bm: "Sambungan rangkaian anda dikesan lemah. Pemuatan mungkin mengambil masa lebih lama, sila tunggu dengan sabar.",
+                    },
+                    stuck: {
+                        cn: "若长时间无法加载或进入驱动，请尝试按 Ctrl+Shift+R 快捷键清空浏览器缓存并刷新页面。",
+                        tw: "若長時間無法載入或進入驅動，請嘗試按 Ctrl+Shift+R 快捷鍵清除瀏覽器快取並重新整理頁面。",
+                        jp: "読み込みまたはドライバーへの移動に時間がかかる場合は、Ctrl+Shift+R を押してブラウザーキャッシュをクリアし、ページを再読み込みしてください。",
+                        en: "If loading or entering the driver takes too long, press Ctrl+Shift+R to clear the browser cache and refresh the page.",
+                        kr: "로딩되거나 드라이버로 진입하는 데 시간이 오래 걸리면 Ctrl+Shift+R을 눌러 브라우저 캐시를 지우고 페이지를 새로고침해 보세요.",
+                        ru: "Если загрузка или вход в драйвер занимает слишком много времени, нажмите Ctrl+Shift+R, чтобы очистить кэш браузера и обновить страницу.",
+                        vn: "Nếu tải trang hoặc vào driver quá lâu, hãy thử nhấn Ctrl+Shift+R để xóa bộ nhớ đệm trình duyệt và làm mới trang.",
+                        ua: "Якщо завантаження або перехід до драйвера триває надто довго, натисніть Ctrl+Shift+R, щоб очистити кеш браузера й оновити сторінку.",
+                        fa: "اگر بارگذاری یا ورود به درایور خیلی طول کشید، Ctrl+Shift+R را فشار دهید تا کش مرورگر پاک شود و صفحه دوباره بارگیری شود.",
+                        ar: "إذا استغرق التحميل أو الدخول إلى برنامج التشغيل وقتا طويلا، فاضغط Ctrl+Shift+R لمسح ذاكرة التخزين المؤقت للمتصفح وتحديث الصفحة.",
+                        fr: "Si le chargement ou l'accès au pilote prend trop de temps, appuyez sur Ctrl+Shift+R pour vider le cache du navigateur et actualiser la page.",
+                        de: "Wenn das Laden oder Öffnen des Treibers zu lange dauert, drücken Sie Ctrl+Shift+R, um den Browser-Cache zu leeren und die Seite neu zu laden.",
+                        es: "Si la carga o la entrada al controlador tarda demasiado, presiona Ctrl+Shift+R para borrar la caché del navegador y actualizar la página.",
+                        nl: "Als het laden of openen van de driver te lang duurt, druk dan op Ctrl+Shift+R om de browsercache te wissen en de pagina te vernieuwen.",
+                        tr: "Yükleme veya sürücüye girme çok uzun sürerse tarayıcı önbelleğini temizleyip sayfayı yenilemek için Ctrl+Shift+R tuşlarına basın.",
+                        pl: "Jeśli ładowanie lub wejście do sterownika trwa zbyt długo, naciśnij Ctrl+Shift+R, aby wyczyścić pamięć podręczną przeglądarki i odświeżyć stronę.",
+                        it: "Se il caricamento o l'accesso al driver richiede troppo tempo, premi Ctrl+Shift+R per svuotare la cache del browser e aggiornare la pagina.",
+                        pt: "Se o carregamento ou a entrada no driver demorar muito, pressione Ctrl+Shift+R para limpar o cache do navegador e atualizar a página.",
+                        bm: "Jika pemuatan atau akses kepada pemacu mengambil masa terlalu lama, tekan Ctrl+Shift+R untuk mengosongkan cache pelayar dan memuat semula halaman.",
+                    },
+                };
+                var E = { L: "load", X: "error" };
+                function Q(x) {
+                    return document.getElementById(x);
+                }
+                function A(el, fn) {
+                    el.addEventListener(E.L, fn, { once: true });
+                    el.addEventListener(E.X, fn, { once: true });
+                }
+                function F(g, k) {
+                    if (!g[k]) {
+                        g[k] = new Promise(function (r) {
+                            g[K[4]] = r;
+                        });
+                    }
+                }
+                function R(url) {
+                    try {
+                        var en = performance.getEntriesByName(url, "resource");
+                        return en.length && en[en.length - 1].responseEnd > 0;
+                    } catch (e) {
+                        return false;
+                    }
+                }
+                function V() {
+                    var l = "";
+                    try {
+                        l = (navigator.language || "").toLowerCase();
+                    } catch (e) {}
+                    if (l.indexOf("zh") >= 0) {
+                        return l.indexOf("tw") >= 0 || l.indexOf("hk") >= 0 ? "tw" : "cn";
+                    }
+                    if (l.indexOf("ja") >= 0) return "jp";
+                    if (l.indexOf("ko") >= 0) return "kr";
+                    if (l.indexOf("ru") >= 0) return "ru";
+                    if (l.indexOf("vi") >= 0) return "vn";
+                    if (l.indexOf("uk") >= 0) return "ua";
+                    if (l.indexOf("fa") >= 0) return "fa";
+                    if (l.indexOf("ar") >= 0) return "ar";
+                    if (l.indexOf("fr") >= 0) return "fr";
+                    if (l.indexOf("pt") >= 0) return "pt";
+                    if (l.indexOf("it") >= 0) return "it";
+                    if (l.indexOf("pl") >= 0) return "pl";
+                    if (l.indexOf("tr") >= 0) return "tr";
+                    if (l.indexOf("nl") >= 0) return "nl";
+                    if (l.indexOf("es") >= 0) return "es";
+                    if (l.indexOf("de") >= 0) return "de";
+                    return "en";
+                }
+                function G() {
+                    var c = "";
+                    try {
+                        c = localStorage.getItem(K[10]) || "";
+                    } catch (e) {}
+                    if (!c || c === K[11] || !I.stuck[c]) c = V();
+                    return I.stuck[c] ? c : "en";
+                }
+                function B() {
+                    var p = Q(K[0]);
+                    var f = Q(K[1]);
+                    var r = Q(K[2]);
+                    if (!p || !f || !r) return;
+                    var g = window;
+                    F(g, K[3]);
+
+                    var s = {
+                        c: 0,
+                        fd: 15000,
+                        fp: 0,
+                        ok: false,
+                        rr: 0,
+                        raf: 0,
+                        hard: false,
+                        wt: 0,
+                        tip: "",
+                        slow: false,
+                        at99: 0,
+                        mo: null,
+                    };
+                    function J(kind) {
+                        var e = Q(K[9]);
+                        if (!e) return;
+                        if (kind) {
+                            var c = G();
+                            e.textContent = (I[kind] && (I[kind][c] || I[kind].en)) || "";
+                            e.style.display = "block";
+                            e.setAttribute("aria-hidden", "false");
+                            s.tip = kind;
+                            return;
+                        }
+                        e.style.display = "none";
+                        e.setAttribute("aria-hidden", "true");
+                        s.tip = "";
+                    }
+                    function O(clearOnly) {
+                        if (s.wt) {
+                            clearTimeout(s.wt);
+                            s.wt = 0;
+                        }
+                        if (clearOnly || s.hard || s.c !== 99) return;
+                        if (!s.at99) s.at99 = performance.now();
+                        var delay = s.slow ? 8000 : 5000;
+                        var wait = Math.max(0, delay - (performance.now() - s.at99));
+                        s.wt = setTimeout(function () {
+                            s.wt = 0;
+                            if (s.c === 99 && !s.hard && document.body.contains(r)) {
+                                if (performance.now() - s.at99 >= (s.slow ? 8000 : 5000)) {
+                                    J("stuck");
+                                } else {
+                                    O();
+                                }
+                            }
+                        }, wait);
+                    }
+                    function X() {
+                        if (s.slow || s.hard) return;
+                        s.slow = true;
+                        if (s.tip !== "stuck") J("slow");
+                        if (s.c === 99) O();
+                    }
+                    function U(v) {
+                        if (!document.body.contains(r)) return;
+                        v = Math.max(0, Math.min(100, Math.round(v)));
+                        if (v < s.c) return;
+                        s.c = v;
+                        p.textContent = v + "%";
+                        f.style.width = v + "%";
+                        r.setAttribute("aria-valuenow", String(v));
+                        if (v === 99) {
+                            if (!s.at99) s.at99 = performance.now();
+                            O();
+                        } else {
+                            s.at99 = 0;
+                            O(true);
+                            if (v >= 100) {
+                                J(false);
+                            } else if (s.tip === "stuck") {
+                                J(s.slow ? "slow" : false);
+                            }
+                        }
+                    }
+                    function Z() {
+                        var n = s.ok ? 99 : Math.min(s.fp, 90);
+                        if (n > 99) n = 99;
+                        U(n);
+                    }
+                    function D() {
+                        if (s.hard) return;
+                        if (!s.ok || s.rr < 1) return;
+                        U(99);
+                        if (g[K[4]]) {
+                            g[K[4]]();
+                            g[K[4]] = null;
+                        }
+                    }
+                    function N() {
+                        if (s.hard) return;
+                        s.hard = true;
+                        s.ok = true;
+                        s.rr = 1;
+                        if (s.raf) {
+                            cancelAnimationFrame(s.raf);
+                            s.raf = 0;
+                        }
+                        if (s.mo) {
+                            s.mo.disconnect();
+                            s.mo = null;
+                        }
+                        if (!document.body.contains(r)) return;
+                        U(100);
+                        var l = Q(K[6]);
+                        if (l && l.parentNode) l.parentNode.removeChild(l);
+                        if (g[K[4]]) {
+                            g[K[4]]();
+                            g[K[4]] = null;
+                        }
+                    }
+                    g[K[5]] = N;
+
+                    function S(el) {
+                        if (!el) return "";
+                        if (el.tagName === "IMG") return el.currentSrc || el.src || "";
+                        if (el.tagName === "LINK") return el.href || "";
+                        if (el.tagName === "SCRIPT") return el.src || "";
+                        return "";
+                    }
+                    function E2() {
+                        try {
+                            var n =
+                                navigator.connection ||
+                                navigator.mozConnection ||
+                                navigator.webkitConnection;
+                            if (!n) return;
+                            var et = String(n.effectiveType || "").toLowerCase();
+                            if (
+                                et.indexOf("2g") >= 0 ||
+                                (typeof n.downlink === "number" && n.downlink > 0 && n.downlink <= 0.75) ||
+                                (typeof n.rtt === "number" && n.rtt >= 1200)
+                            ) {
+                                X();
+                            }
+                        } catch (e) {}
+                    }
+                    function I2(el) {
+                        try {
+                            var url = S(el);
+                            if (!url) return;
+                            var en = performance.getEntriesByName(url, "resource");
+                            if (!en.length) return;
+                            var e = en[en.length - 1];
+                            if (!e || !e.responseEnd) return;
+                            var bytes = e.transferSize || e.encodedBodySize || e.decodedBodySize || 0;
+                            var ms = e.responseEnd - (e.responseStart || e.startTime || 0);
+                            if (bytes >= 32768 && ms > 0 && bytes / ms < 80) X();
+                        } catch (e) {}
+                    }
+                    function T(el) {
+                        if (el.tagName === "IMG") {
+                            if (el.complete && el.naturalWidth > 0) return true;
+                            return false;
+                        }
+                        if (el.tagName === "LINK") {
+                            try {
+                                if (el.sheet) return true;
+                            } catch (e) {}
+                            return R(el.href);
+                        }
+                        if (el.tagName === "SCRIPT") return R(el.src);
+                        return true;
+                    }
+
+                    var L = [];
+                    var M = new WeakSet();
+                    function P(el) {
+                        if (!el || M.has(el)) return;
+                        M.add(el);
+                        L.push(el);
+                    }
+                    document.querySelectorAll('link[rel="stylesheet"]').forEach(function (n) {
+                        if (n && n.rel === "stylesheet" && n.href && n.href.indexOf(K[8]) < 0) P(n);
+                    });
+                    document.querySelectorAll('script[type="module"]').forEach(function (n) {
+                        if (n && n.type === "module" && n.src && n.src.indexOf(K[8]) < 0) P(n);
+                    });
+                    P(document.querySelector(K[7]));
+
+                    var t = L.length;
+                    var d = 0;
+                    var H = new WeakSet();
+                    function C(el) {
+                        if (H.has(el)) return;
+                        H.add(el);
+                        d++;
+                        s.rr = t > 0 ? d / t : 1;
+                        Z();
+                        I2(el);
+                    }
+                    function W(el) {
+                        if (T(el)) return C(el);
+                        var slowTimer = setTimeout(function () {
+                            if (!H.has(el) && !s.hard) X();
+                        }, 8000);
+                        A(el, function () {
+                            clearTimeout(slowTimer);
+                            C(el);
+                        });
+                    }
+                    function O2(n) {
+                        if (!n || M.has(n)) return;
+                        if (n.tagName === "SCRIPT" && n.type === "module" && n.src && n.src.indexOf(K[8]) < 0) {
+                            P(n);
+                            t = L.length;
+                            W(n);
+                            Z();
+                        }
+                    }
+
+                    U(0);
+                    E2();
+                    if (t === 0) {
+                        s.rr = 1;
+                        s.ok = true;
+                        Z();
+                        D();
+                        return;
+                    }
+                    L.forEach(W);
+                    if (window.MutationObserver) {
+                        s.mo = new MutationObserver(function (records) {
+                            records.forEach(function (record) {
+                                record.addedNodes.forEach(function (n) {
+                                    O2(n);
+                                    if (n.querySelectorAll) {
+                                        n.querySelectorAll('script[type="module"]').forEach(O2);
+                                    }
+                                });
+                            });
+                        });
+                        s.mo.observe(document.documentElement, { childList: true, subtree: true });
+                    }
+
+                    var st = performance.now();
+                    function Y(now) {
+                        if (s.hard) return;
+                        var x = Math.max(0, Math.min(1, (now - st) / s.fd));
+                        s.fp = (1 - Math.pow(1 - x, 1.7)) * 90;
+                        Z();
+                        if (x < 1) {
+                            s.raf = requestAnimationFrame(Y);
+                            return;
+                        }
+                        s.ok = true;
+                        Z();
+                        D();
+                    }
+                    s.raf = requestAnimationFrame(Y);
+                    window.addEventListener("load", function () {
+                        s.rr = 1;
+                        Z();
+                        D();
+                    });
+                }
+                if (Q(K[2])) B();
+                else if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", B);
+                else B();
+            })();
+        </script>
+        
+        <!-- Baidu analytics (hm.baidu.com) removed for the offline archive. -->
+    </body>
+</html>

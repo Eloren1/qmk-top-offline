@@ -1,7 +1,8 @@
 'use strict';
 
-// One-off verification: boots the same server, loads the site offscreen, and
-// reports whether the React tree mounted and whether WebHID is exposed.
+// One-off verification: boots the same server, loads each bundled app offscreen,
+// and reports whether its tree mounted and whether WebHID is exposed.
+// Two apps ship here: the root V5 configurator and the V4 one under /v4/.
 // Run with:  npx electron selftest.js
 
 const { app, BrowserWindow } = require('electron');
@@ -10,7 +11,12 @@ const { startServer } = require('./server-core');
 
 app.commandLine.appendSwitch('disable-hid-blocklist');
 
-const errors = [];
+const APPS = [
+  { name: 'root (V5)', url: '/', mount: '#root' },
+  { name: 'V4 driver', url: '/v4/', mount: '#app' }
+];
+
+let errors = [];
 
 app.whenReady().then(async () => {
   const { port } = await startServer({
@@ -36,32 +42,35 @@ app.whenReady().then(async () => {
     errors.push(`did-fail-load ${code} ${desc} ${url}`);
   });
 
-  await win.loadURL(`http://127.0.0.1:${port}/`);
+  for (const target of APPS) {
+    errors = [];
+    await win.loadURL(`http://127.0.0.1:${port}${target.url}`);
 
-  // Give React time to mount and run its startup effects.
-  await new Promise(r => setTimeout(r, 6000));
+    // Give the app time to mount and run its startup effects.
+    await new Promise(r => setTimeout(r, 8000));
 
-  const report = await win.webContents.executeJavaScript(`(() => ({
-    title: document.title,
-    rootNodes: document.querySelectorAll('#root *').length,
-    bodyText: (document.body.innerText || '').replace(/\\s+/g, ' ').trim().slice(0, 300),
-    hasWebHID: typeof navigator.hid !== 'undefined',
-    isSecureContext: window.isSecureContext,
-    imgTotal: document.images.length,
-    imgBroken: [...document.images].filter(i => i.complete && i.naturalWidth === 0).map(i => i.currentSrc || i.src)
-  }))()`);
+    const report = await win.webContents.executeJavaScript(`(() => ({
+      title: document.title,
+      mountNodes: document.querySelectorAll(${JSON.stringify(target.mount + ' *')}).length,
+      bodyText: (document.body.innerText || '').replace(/\\s+/g, ' ').trim().slice(0, 300),
+      hasWebHID: typeof navigator.hid !== 'undefined',
+      isSecureContext: window.isSecureContext,
+      imgTotal: document.images.length,
+      imgBroken: [...document.images].filter(i => i.complete && i.naturalWidth === 0).map(i => i.currentSrc || i.src)
+    }))()`);
 
-  console.log('\n================ SELF TEST ================');
-  console.log('document.title   :', JSON.stringify(report.title));
-  console.log('#root descendants:', report.rootNodes, report.rootNodes > 20 ? '(mounted OK)' : '(SUSPICIOUS - looks blank)');
-  console.log('secure context   :', report.isSecureContext);
-  console.log('navigator.hid    :', report.hasWebHID, report.hasWebHID ? '(WebHID available)' : '(MISSING)');
-  console.log('images           :', report.imgTotal, 'total,', report.imgBroken.length, 'broken');
-  if (report.imgBroken.length) console.log('  broken:', report.imgBroken);
-  console.log('visible text     :', report.bodyText);
-  console.log('console errors   :', errors.length);
-  errors.slice(0, 15).forEach(m => console.log('  !', m));
-  console.log('==========================================\n');
+    console.log(`\n================ SELF TEST: ${target.name} (${target.url}) ================`);
+    console.log('document.title   :', JSON.stringify(report.title));
+    console.log(`${target.mount} descendants :`, report.mountNodes, report.mountNodes > 20 ? '(mounted OK)' : '(SUSPICIOUS - looks blank)');
+    console.log('secure context   :', report.isSecureContext);
+    console.log('navigator.hid    :', report.hasWebHID, report.hasWebHID ? '(WebHID available)' : '(MISSING)');
+    console.log('images           :', report.imgTotal, 'total,', report.imgBroken.length, 'broken');
+    if (report.imgBroken.length) console.log('  broken:', report.imgBroken);
+    console.log('visible text     :', report.bodyText);
+    console.log('console errors   :', errors.length);
+    errors.slice(0, 15).forEach(m => console.log('  !', m));
+    console.log('='.repeat(60));
+  }
 
   app.exit(0);
 });

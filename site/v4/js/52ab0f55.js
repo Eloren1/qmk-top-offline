@@ -1,0 +1,9412 @@
+const t=`<svg width="904" height="281" overflow="visible"><svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="default">
+<g id="Property 1=default">
+<g id="#NumpadDecimal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4748C838.062 14.3908 838.2 14.3391 838.343 14.3249C838.487 14.3106 838.632 14.3342 838.763 14.3934C838.895 14.4526 839.009 14.5453 839.093 14.6623C839.178 14.7792 839.23 14.9163 839.246 15.0598L839.25 15.1453V26.8543C839.25 26.9986 839.212 27.1405 839.14 27.2656C839.068 27.3907 838.965 27.4948 838.84 27.5675C838.716 27.6401 838.574 27.6788 838.43 27.6796C838.285 27.6804 838.143 27.6433 838.018 27.5721L837.946 27.5256L833.01 23.9998H831C830.622 23.9999 830.257 23.857 829.98 23.5997C829.702 23.3424 829.532 22.9897 829.504 22.6123L829.5 22.4998V19.4998C829.5 19.1215 829.643 18.7572 829.9 18.4799C830.158 18.2025 830.51 18.0327 830.888 18.0043L831 17.9998H833.01L837.945 14.4748Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
+<svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="hover">
+<g id="Property 1=hover">
+<g id="#NumpadDecimal">
+<rect x="815.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<rect x="769.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<rect x="713.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<rect x="667.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<rect x="621.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<rect x="533.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<rect x="479.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<rect x="161.15" y="238.15" width="315.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<rect x="107.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<rect x="53.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<rect x="-0.85" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<rect x="861.15" y="192.15" width="43.7" height="89.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<rect x="815.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<rect x="769.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<rect x="723.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<rect x="667.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<rect x="558.15" y="192.15" width="106.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<rect x="512.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<rect x="466.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<rect x="420.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<rect x="374.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<rect x="328.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<rect x="282.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<rect x="236.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<rect x="190.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<rect x="144.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<rect x="98.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<rect x="-0.85" y="192.15" width="96.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<rect x="815.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<rect x="769.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<rect x="723.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<rect x="583.15" y="146.15" width="127.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<rect x="537.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<rect x="491.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<rect x="445.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<rect x="399.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<rect x="353.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<rect x="307.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<rect x="261.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<rect x="215.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<rect x="169.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<rect x="123.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<rect x="77.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<rect x="-0.85" y="146.15" width="75.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<rect x="861.15" y="100.15" width="43.7" height="89.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<rect x="815.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<rect x="769.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<rect x="723.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<rect x="623.15" y="100.15" width="87.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<rect x="577.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<rect x="531.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<rect x="485.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<rect x="439.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<rect x="393.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<rect x="347.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<rect x="301.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<rect x="255.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<rect x="209.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<rect x="163.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<rect x="117.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<rect x="71.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<rect x="-0.85" y="100.15" width="69.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<rect x="861.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<rect x="815.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<rect x="769.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<rect x="723.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<rect x="597.15" y="54.15" width="113.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<rect x="551.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<rect x="505.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<rect x="459.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<rect x="413.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<rect x="367.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<rect x="321.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<rect x="275.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<rect x="229.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<rect x="183.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<rect x="137.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<rect x="91.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<rect x="45.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<rect x="-0.85" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<rect x="861.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<rect x="815.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4748C838.062 14.3908 838.2 14.3391 838.343 14.3249C838.487 14.3106 838.632 14.3342 838.763 14.3934C838.895 14.4526 839.009 14.5453 839.093 14.6623C839.178 14.7792 839.23 14.9163 839.246 15.0598L839.25 15.1453V26.8543C839.25 26.9986 839.212 27.1405 839.14 27.2656C839.068 27.3907 838.965 27.4948 838.84 27.5675C838.716 27.6401 838.574 27.6788 838.43 27.6796C838.285 27.6804 838.143 27.6433 838.018 27.5721L837.946 27.5256L833.01 23.9998H831C830.622 23.9999 830.257 23.857 829.98 23.5997C829.702 23.3424 829.532 22.9897 829.504 22.6123L829.5 22.4998V19.4998C829.5 19.1215 829.643 18.7572 829.9 18.4799C830.158 18.2025 830.51 18.0327 830.888 18.0043L831 17.9998H833.01L837.945 14.4748Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<rect x="769.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<rect x="723.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<rect x="667.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<rect x="599.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<rect x="553.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<rect x="507.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<rect x="461.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<rect x="399.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<rect x="353.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<rect x="307.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<rect x="261.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<rect x="199.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<rect x="153.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<rect x="107.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<rect x="61.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<rect x="-0.85" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
+<svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="current">
+<g id="Property 1=current">
+<g id="#NumpadDecimal">
+<rect x="815.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<rect x="769.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<rect x="713.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<rect x="667.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<rect x="621.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<rect x="533.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<rect x="479.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<rect x="161.15" y="238.15" width="315.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<rect x="107.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<rect x="53.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<rect x="-0.85" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<rect x="861.15" y="192.15" width="43.7" height="89.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<rect x="815.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<rect x="769.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<rect x="723.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<rect x="667.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<rect x="558.15" y="192.15" width="106.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<rect x="512.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<rect x="466.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<rect x="420.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<rect x="374.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<rect x="328.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<rect x="282.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<rect x="236.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<rect x="190.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<rect x="144.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<rect x="98.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<rect x="-0.85" y="192.15" width="96.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<rect x="815.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<rect x="769.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<rect x="723.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<rect x="583.15" y="146.15" width="127.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<rect x="537.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<rect x="491.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<rect x="445.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<rect x="399.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<rect x="353.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<rect x="307.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<rect x="261.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<rect x="215.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<rect x="169.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<rect x="123.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<rect x="77.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<rect x="-0.85" y="146.15" width="75.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<rect x="861.15" y="100.15" width="43.7" height="89.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<rect x="815.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<rect x="769.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<rect x="723.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<rect x="623.15" y="100.15" width="87.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<rect x="577.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<rect x="531.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<rect x="485.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<rect x="439.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<rect x="393.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<rect x="347.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<rect x="301.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<rect x="255.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<rect x="209.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<rect x="163.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<rect x="117.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<rect x="71.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<rect x="-0.85" y="100.15" width="69.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<rect x="861.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<rect x="815.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<rect x="769.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<rect x="723.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<rect x="597.15" y="54.15" width="113.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<rect x="551.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<rect x="505.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<rect x="459.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<rect x="413.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<rect x="367.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<rect x="321.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<rect x="275.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<rect x="229.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<rect x="183.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<rect x="137.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<rect x="91.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<rect x="45.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<rect x="-0.85" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<rect x="861.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<rect x="815.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4753C838.062 14.3913 838.2 14.3396 838.343 14.3253C838.487 14.3111 838.632 14.3347 838.763 14.3939C838.895 14.4531 839.009 14.5458 839.093 14.6627C839.178 14.7797 839.23 14.9168 839.246 15.0603L839.25 15.1458V26.8548C839.25 26.9991 839.212 27.1409 839.14 27.2661C839.068 27.3912 838.965 27.4953 838.84 27.568C838.716 27.6406 838.574 27.6793 838.43 27.6801C838.285 27.6809 838.143 27.6438 838.018 27.5725L837.946 27.526L833.01 24.0003H831C830.622 24.0004 830.257 23.8575 829.98 23.6002C829.702 23.3429 829.532 22.9902 829.504 22.6128L829.5 22.5003V19.5003C829.5 19.122 829.643 18.7577 829.9 18.4804C830.158 18.203 830.51 18.0332 830.888 18.0048L831 18.0003H833.01L837.945 14.4753Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<rect x="769.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<rect x="723.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<rect x="667.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<rect x="599.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<rect x="553.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<rect x="507.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<rect x="461.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<rect x="399.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<rect x="353.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<rect x="307.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<rect x="261.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<rect x="199.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<rect x="153.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<rect x="107.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<rect x="61.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<rect x="-0.85" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
+<svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="current_hover">
+<g id="Property 1=current_hover">
+<g id="#NumpadDecimal">
+<rect x="815.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<rect x="769.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<rect x="713.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<rect x="667.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<rect x="621.15" y="238.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<rect x="533.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<rect x="479.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<rect x="161.15" y="238.15" width="315.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<rect x="107.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<rect x="53.15" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<rect x="-0.85" y="238.15" width="51.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<rect x="861.15" y="192.15" width="43.7" height="89.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<rect x="815.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<rect x="769.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<rect x="723.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<rect x="667.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<rect x="558.15" y="192.15" width="106.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<rect x="512.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<rect x="466.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<rect x="420.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<rect x="374.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<rect x="328.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<rect x="282.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<rect x="236.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<rect x="190.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<rect x="144.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<rect x="98.15" y="192.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<rect x="-0.85" y="192.15" width="96.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<rect x="815.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<rect x="769.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<rect x="723.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<rect x="583.15" y="146.15" width="127.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<rect x="537.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<rect x="491.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<rect x="445.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<rect x="399.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<rect x="353.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<rect x="307.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<rect x="261.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<rect x="215.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<rect x="169.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<rect x="123.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<rect x="77.15" y="146.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<rect x="-0.85" y="146.15" width="75.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<rect x="861.15" y="100.15" width="43.7" height="89.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<rect x="815.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<rect x="769.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<rect x="723.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<rect x="623.15" y="100.15" width="87.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<rect x="577.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<rect x="531.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<rect x="485.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<rect x="439.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<rect x="393.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<rect x="347.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<rect x="301.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<rect x="255.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<rect x="209.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<rect x="163.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<rect x="117.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<rect x="71.15" y="100.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<rect x="-0.85" y="100.15" width="69.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<rect x="861.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<rect x="815.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<rect x="769.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<rect x="723.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<rect x="597.15" y="54.15" width="113.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<rect x="551.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<rect x="505.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<rect x="459.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<rect x="413.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<rect x="367.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<rect x="321.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<rect x="275.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<rect x="229.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<rect x="183.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<rect x="137.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<rect x="91.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<rect x="45.15" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<rect x="-0.85" y="54.15" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<rect x="861.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<rect x="815.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4753C838.062 14.3913 838.2 14.3396 838.343 14.3253C838.487 14.3111 838.632 14.3347 838.763 14.3939C838.895 14.4531 839.009 14.5458 839.093 14.6627C839.178 14.7797 839.23 14.9168 839.246 15.0603L839.25 15.1458V26.8548C839.25 26.9991 839.212 27.1409 839.14 27.2661C839.068 27.3912 838.965 27.4953 838.84 27.568C838.716 27.6406 838.574 27.6793 838.43 27.6801C838.285 27.6809 838.143 27.6438 838.018 27.5725L837.946 27.526L833.01 24.0003H831C830.622 24.0004 830.257 23.8575 829.98 23.6002C829.702 23.3429 829.532 22.9902 829.504 22.6128L829.5 22.5003V19.5003C829.5 19.122 829.643 18.7577 829.9 18.4804C830.158 18.203 830.51 18.0332 830.888 18.0048L831 18.0003H833.01L837.945 14.4753Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<rect x="769.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<rect x="723.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<rect x="667.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<rect x="599.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<rect x="553.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<rect x="507.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<rect x="461.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<rect x="399.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<rect x="353.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<rect x="307.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<rect x="261.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<rect x="199.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<rect x="153.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<rect x="107.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<rect x="61.15" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<rect x="-0.85" y="-0.85" width="43.7" height="43.7" rx="6.85" stroke="#FE4545" stroke-opacity="0.5" stroke-width="1.7"></rect>
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#3E3E3E"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
+<svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="disable">
+<g id="Property 1=disable">
+<g id="#NumpadDecimal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#989898"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#989898"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#989898"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#989898"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#989898"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#989898"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#989898"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#989898"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#989898"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#989898"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#989898"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#989898"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#989898"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#989898"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#989898"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4753C838.062 14.3913 838.2 14.3396 838.343 14.3253C838.487 14.3111 838.632 14.3347 838.763 14.3939C838.895 14.4531 839.009 14.5458 839.093 14.6627C839.178 14.7797 839.23 14.9168 839.246 15.0603L839.25 15.1458V26.8548C839.25 26.9991 839.212 27.1409 839.14 27.2661C839.068 27.3912 838.965 27.4953 838.84 27.568C838.716 27.6406 838.574 27.6793 838.43 27.6801C838.285 27.6809 838.143 27.6438 838.018 27.5725L837.946 27.526L833.01 24.0003H831C830.622 24.0004 830.257 23.8575 829.98 23.6002C829.702 23.3429 829.532 22.9902 829.504 22.6128L829.5 22.5003V19.5003C829.5 19.122 829.643 18.7577 829.9 18.4804C830.158 18.203 830.51 18.0332 830.888 18.0048L831 18.0003H833.01L837.945 14.4753Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#989898"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
+<svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="changed">
+<g id="Property 1=changed">
+<g id="#NumpadDecimal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#575757"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#575757"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#575757"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#575757"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#575757"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#575757"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#575757"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4753C838.062 14.3913 838.2 14.3396 838.343 14.3253C838.487 14.3111 838.632 14.3347 838.763 14.3939C838.895 14.4531 839.009 14.5458 839.093 14.6627C839.178 14.7797 839.23 14.9168 839.246 15.0603L839.25 15.1458V26.8548C839.25 26.9991 839.212 27.1409 839.14 27.2661C839.068 27.3912 838.965 27.4953 838.84 27.568C838.716 27.6406 838.574 27.6793 838.43 27.6801C838.285 27.6809 838.143 27.6438 838.018 27.5725L837.946 27.526L833.01 24.0003H831C830.622 24.0004 830.257 23.8575 829.98 23.6002C829.702 23.3429 829.532 22.9902 829.504 22.6128L829.5 22.5003V19.5003C829.5 19.122 829.643 18.7577 829.9 18.4804C830.158 18.203 830.51 18.0332 830.888 18.0048L831 18.0003H833.01L837.945 14.4753Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#74EBD5" fill-opacity="0.6"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
+<svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="forbidden">
+<g id="Property 1=forbidden">
+<g id="#NumpadDecimal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#575757"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#575757"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#575757"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#575757"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#575757"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#575757"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#575757"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4753C838.062 14.3913 838.2 14.3396 838.343 14.3253C838.487 14.3111 838.632 14.3347 838.763 14.3939C838.895 14.4531 839.009 14.5458 839.093 14.6627C839.178 14.7797 839.23 14.9168 839.246 15.0603L839.25 15.1458V26.8548C839.25 26.9991 839.212 27.1409 839.14 27.2661C839.068 27.3912 838.965 27.4953 838.84 27.568C838.716 27.6406 838.574 27.6793 838.43 27.6801C838.285 27.6809 838.143 27.6438 838.018 27.5725L837.946 27.526L833.01 24.0003H831C830.622 24.0004 830.257 23.8575 829.98 23.6002C829.702 23.3429 829.532 22.9902 829.504 22.6128L829.5 22.5003V19.5003C829.5 19.122 829.643 18.7577 829.9 18.4804C830.158 18.203 830.51 18.0332 830.888 18.0048L831 18.0003H833.01L837.945 14.4753Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#FAFF00" fill-opacity="0.6"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
+<svg width="904" height="281" fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="systemKey">
+<g id="Property 1=systemKey">
+<g id="#NumpadDecimal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;">
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="817" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__0__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="835.33" y="256.232">.
+</tspan><tspan x="827.842" y="274.232">Del</tspan></text>
+</g>
+<g id="Frame 3">
+<path d="M816 245C816 241.686 818.686 239 822 239H831V248C831 251.314 828.314 254 825 254H816V245Z" fill="#CFCFCF"></path>
+<text id="__text__1__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_2">
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="771" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__5__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="256.232">0
+</tspan><tspan x="782.773" y="274.232">Ins</tspan></text>
+</g>
+<g id="Frame 3_2">
+<path d="M770 245C770 241.686 772.686 239 776 239H785V248C785 251.314 782.314 254 779 254H770V245Z" fill="#CFCFCF"></path>
+<text id="__text__6__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_3">
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="715" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__10__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="729" y="265.232">→</tspan></text>
+</g>
+<g id="Frame 3_3">
+<path d="M714 245C714 241.686 716.686 239 720 239H729V248C729 251.314 726.314 254 723 254H714V245Z" fill="#CFCFCF"></path>
+<text id="__text__11__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="718.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_4">
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="669" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__15__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="265.232">↓</tspan></text>
+</g>
+<g id="Frame 3_4">
+<path d="M668 245C668 241.686 670.686 239 674 239H683V248C683 251.314 680.314 254 677 254H668V245Z" fill="#CFCFCF"></path>
+<text id="__text__16__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_5">
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="623" y="240" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__20__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="637" y="265.232">←</tspan></text>
+</g>
+<g id="Frame 3_5">
+<path d="M622 245C622 241.686 624.686 239 628 239H637V248C637 251.314 634.314 254 631 254H622V245Z" fill="#CFCFCF"></path>
+<text id="__text__21__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="626.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Fn">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_6">
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="535" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__25__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="552.162" y="265.232">Fn</tspan></text>
+</g>
+<g id="Frame 3_6">
+<path d="M534 245C534 241.686 536.686 239 540 239H549V248C549 251.314 546.314 254 543 254H534V245Z" fill="#CFCFCF"></path>
+<text id="__text__26__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="538.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_7">
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="481" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__30__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="497.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_7">
+<path d="M480 245C480 241.686 482.686 239 486 239H495V248C495 251.314 492.314 254 489 254H480V245Z" fill="#CFCFCF"></path>
+<text id="__text__31__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="484.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#Space">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_8">
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#575757"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="163" y="240" width="312" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__35__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="302.184" y="265.232">Space</tspan></text>
+</g>
+<g id="Frame 3_8">
+<path d="M162 245C162 241.686 164.686 239 168 239H177V248C177 251.314 174.314 254 171 254H162V245Z" fill="#CFCFCF"></path>
+<text id="__text__36__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="166.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#AltLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_9">
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="109" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__40__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="125.383" y="265.232">Alt</tspan></text>
+</g>
+<g id="Frame 3_9">
+<path d="M108 245C108 241.686 110.686 239 114 239H123V248C123 251.314 120.314 254 117 254H108V245Z" fill="#CFCFCF"></path>
+<text id="__text__41__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#MetaLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_10">
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="55" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__45__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="68.418" y="265.232">Win</tspan></text>
+</g>
+<g id="Frame 3_10">
+<path d="M54 245C54 241.686 56.6863 239 60 239H69V248C69 251.314 66.3137 254 63 254H54V245Z" fill="#CFCFCF"></path>
+<text id="__text__46__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="58.1094" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#ControlLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_11">
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="1" y="240" width="48" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__50__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="15.0625" y="265.232">Ctrl</tspan></text>
+</g>
+<g id="Frame 3_11">
+<path d="M0 245C0 241.686 2.68629 239 6 239H15V248C15 251.314 12.3137 254 9 254H0V245Z" fill="#CFCFCF"></path>
+<text id="__text__51__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="251.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadEnter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_12">
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#575757"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="863" y="194" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__55__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="867.982" y="242.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_12">
+<path d="M862 199C862 195.686 864.686 193 868 193H877V202C877 205.314 874.314 208 871 208H862V199Z" fill="#CFCFCF"></path>
+<text id="__text__56__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_13">
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="817" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__60__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="210.232">3
+</tspan><tspan x="822.229" y="228.232">PgDn</tspan></text>
+</g>
+<g id="Frame 3_13">
+<path d="M816 199C816 195.686 818.686 193 822 193H831V202C831 205.314 828.314 208 825 208H816V199Z" fill="#CFCFCF"></path>
+<text id="__text__61__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_14">
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="771" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__65__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="210.232">2
+</tspan><tspan x="785" y="228.232">↓</tspan></text>
+</g>
+<g id="Frame 3_14">
+<path d="M770 199C770 195.686 772.686 193 776 193H785V202C785 205.314 782.314 208 779 208H770V199Z" fill="#CFCFCF"></path>
+<text id="__text__66__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_15">
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="725" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__70__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="210.232">1
+</tspan><tspan x="734.084" y="228.232">End</tspan></text>
+</g>
+<g id="Frame 3_15">
+<path d="M724 199C724 195.686 726.686 193 730 193H739V202C739 205.314 736.314 208 733 208H724V199Z" fill="#CFCFCF"></path>
+<text id="__text__71__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ArrowUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_16">
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="669" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__75__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="683" y="219.232">↑</tspan></text>
+</g>
+<g id="Frame 3_16">
+<path d="M668 199C668 195.686 670.686 193 674 193H683V202C683 205.314 680.314 208 677 208H668V199Z" fill="#CFCFCF"></path>
+<text id="__text__76__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_17">
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#575757"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="560" y="194" width="103" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__80__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="598.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_17">
+<path d="M559 199C559 195.686 561.686 193 565 193H574V202C574 205.314 571.314 208 568 208H559V199Z" fill="#CFCFCF"></path>
+<text id="__text__81__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="563.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Slash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_18">
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="514" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__85__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="528.809" y="219.232">/?</tspan></text>
+</g>
+<g id="Frame 3_18">
+<path d="M513 199C513 195.686 515.686 193 519 193H528V202C528 205.314 525.314 208 522 208H513V199Z" fill="#CFCFCF"></path>
+<text id="__text__86__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="517.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Period">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_19">
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="468" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__90__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="483.002" y="219.232">.></tspan></text>
+</g>
+<g id="Frame 3_19">
+<path d="M467 199C467 195.686 469.686 193 473 193H482V202C482 205.314 479.314 208 476 208H467V199Z" fill="#CFCFCF"></path>
+<text id="__text__91__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="471.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Comma">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_20">
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="422" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__95__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="437.002" y="219.232">,<</tspan></text>
+</g>
+<g id="Frame 3_20">
+<path d="M421 199C421 195.686 423.686 193 427 193H436V202C436 205.314 433.314 208 430 208H421V199Z" fill="#CFCFCF"></path>
+<text id="__text__96__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="425.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyM">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_21">
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="376" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__100__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="391.131" y="219.232">M</tspan></text>
+</g>
+<g id="Frame 3_21">
+<path d="M375 199C375 195.686 377.686 193 381 193H390V202C390 205.314 387.314 208 384 208H375V199Z" fill="#CFCFCF"></path>
+<text id="__text__101__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="379.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyN">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_22">
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="330" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__105__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="345.664" y="219.232">N</tspan></text>
+</g>
+<g id="Frame 3_22">
+<path d="M329 199C329 195.686 331.686 193 335 193H344V202C344 205.314 341.314 208 338 208H329V199Z" fill="#CFCFCF"></path>
+<text id="__text__106__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="333.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyB">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_23">
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="284" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__110__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="300.057" y="219.232">B</tspan></text>
+</g>
+<g id="Frame 3_23">
+<path d="M283 199C283 195.686 285.686 193 289 193H298V202C298 205.314 295.314 208 292 208H283V199Z" fill="#CFCFCF"></path>
+<text id="__text__111__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="287.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyV">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_24">
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="238" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__115__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="254.549" y="219.232">V</tspan></text>
+</g>
+<g id="Frame 3_24">
+<path d="M237 199C237 195.686 239.686 193 243 193H252V202C252 205.314 249.314 208 246 208H237V199Z" fill="#CFCFCF"></path>
+<text id="__text__116__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="241.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyC">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_25">
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="192" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__120__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="208.174" y="219.232">C</tspan></text>
+</g>
+<g id="Frame 3_25">
+<path d="M191 199C191 195.686 193.686 193 197 193H206V202C206 205.314 203.314 208 200 208H191V199Z" fill="#CFCFCF"></path>
+<text id="__text__121__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="195.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyX">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_26">
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="146" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__125__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="162.561" y="219.232">X</tspan></text>
+</g>
+<g id="Frame 3_26">
+<path d="M145 199C145 195.686 147.686 193 151 193H160V202C160 205.314 157.314 208 154 208H145V199Z" fill="#CFCFCF"></path>
+<text id="__text__126__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="149.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyZ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_27">
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="100" y="194" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__130__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="116.385" y="219.232">Z</tspan></text>
+</g>
+<g id="Frame 3_27">
+<path d="M99 199C99 195.686 101.686 193 105 193H114V202C114 205.314 111.314 208 108 208H99V199Z" fill="#CFCFCF"></path>
+<text id="__text__131__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="103.109" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#ShiftLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_28">
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="1" y="194" width="93" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__135__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="34.416" y="219.232">Shift</tspan></text>
+</g>
+<g id="Frame 3_28">
+<path d="M0 199C0 195.686 2.68629 193 6 193H15V202C15 205.314 12.3137 208 9 208H0V199Z" fill="#CFCFCF"></path>
+<text id="__text__136__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="205.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_29">
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="817" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__140__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="164.232">6
+</tspan><tspan x="831" y="182.232">→</tspan></text>
+</g>
+<g id="Frame 3_29">
+<path d="M816 153C816 149.686 818.686 147 822 147H831V156C831 159.314 828.314 162 825 162H816V153Z" fill="#CFCFCF"></path>
+<text id="__text__141__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_30">
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="771" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__145__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="173.232">5</tspan></text>
+</g>
+<g id="Frame 3_30">
+<path d="M770 153C770 149.686 772.686 147 776 147H785V156C785 159.314 782.314 162 779 162H770V153Z" fill="#CFCFCF"></path>
+<text id="__text__146__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_31">
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="725" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__150__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="164.232">4
+</tspan><tspan x="739" y="182.232">←</tspan></text>
+</g>
+<g id="Frame 3_31">
+<path d="M724 153C724 149.686 726.686 147 730 147H739V156C739 159.314 736.314 162 733 162H724V153Z" fill="#CFCFCF"></path>
+<text id="__text__151__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Enter">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_32">
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#575757"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="585" y="148" width="124" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__155__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="631.982" y="173.232">Enter</tspan></text>
+</g>
+<g id="Frame 3_32">
+<path d="M584 153C584 149.686 586.686 147 590 147H599V156C599 159.314 596.314 162 593 162H584V153Z" fill="#CFCFCF"></path>
+<text id="__text__156__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="588.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Quote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_33">
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="539" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__160__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="547" y="173.232">‘”</tspan></text>
+</g>
+<g id="Frame 3_33">
+<path d="M538 153C538 149.686 540.686 147 544 147H553V156C553 159.314 550.314 162 547 162H538V153Z" fill="#CFCFCF"></path>
+<text id="__text__161__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="542.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#Semicolon">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_34">
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="493" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__165__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="509.66" y="173.232">;:</tspan></text>
+</g>
+<g id="Frame 3_34">
+<path d="M492 153C492 149.686 494.686 147 498 147H507V156C507 159.314 504.314 162 501 162H492V153Z" fill="#CFCFCF"></path>
+<text id="__text__166__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="496.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyL">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_35">
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="447" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__170__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="463.742" y="173.232">L</tspan></text>
+</g>
+<g id="Frame 3_35">
+<path d="M446 153C446 149.686 448.686 147 452 147H461V156C461 159.314 458.314 162 455 162H446V153Z" fill="#CFCFCF"></path>
+<text id="__text__171__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="450.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyK">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_36">
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="401" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__175__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="417.121" y="173.232">K</tspan></text>
+</g>
+<g id="Frame 3_36">
+<path d="M400 153C400 149.686 402.686 147 406 147H415V156C415 159.314 412.314 162 409 162H400V153Z" fill="#CFCFCF"></path>
+<text id="__text__176__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyJ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_37">
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="355" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__180__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="371.789" y="173.232">J</tspan></text>
+</g>
+<g id="Frame 3_37">
+<path d="M354 153C354 149.686 356.686 147 360 147H369V156C369 159.314 366.314 162 363 162H354V153Z" fill="#CFCFCF"></path>
+<text id="__text__181__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyH">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_38">
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="309" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__185__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="324.635" y="173.232">H</tspan></text>
+</g>
+<g id="Frame 3_38">
+<path d="M308 153C308 149.686 310.686 147 314 147H323V156C323 159.314 320.314 162 317 162H308V153Z" fill="#CFCFCF"></path>
+<text id="__text__186__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyG">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_39">
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="263" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__190__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="278.863" y="173.232">G</tspan></text>
+</g>
+<g id="Frame 3_39">
+<path d="M262 153C262 149.686 264.686 147 268 147H277V156C277 159.314 274.314 162 271 162H262V153Z" fill="#CFCFCF"></path>
+<text id="__text__191__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyF">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_40">
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="217" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__195__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="233.689" y="173.232">F</tspan></text>
+</g>
+<g id="Frame 3_40">
+<path d="M216 153C216 149.686 218.686 147 222 147H231V156C231 159.314 228.314 162 225 162H216V153Z" fill="#CFCFCF"></path>
+<text id="__text__196__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="220.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyD">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_41">
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="171" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__200__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="186.869" y="173.232">D</tspan></text>
+</g>
+<g id="Frame 3_41">
+<path d="M170 153C170 149.686 172.686 147 176 147H185V156C185 159.314 182.314 162 179 162H170V153Z" fill="#CFCFCF"></path>
+<text id="__text__201__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="174.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyS">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_42">
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="125" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__205__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="141.426" y="173.232">S</tspan></text>
+</g>
+<g id="Frame 3_42">
+<path d="M124 153C124 149.686 126.686 147 130 147H139V156C139 159.314 136.314 162 133 162H124V153Z" fill="#CFCFCF"></path>
+<text id="__text__206__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="128.109" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyA">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_43">
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="79" y="148" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__210__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="95.3496" y="173.232">A</tspan></text>
+</g>
+<g id="Frame 3_43">
+<path d="M78 153C78 149.686 80.6863 147 84 147H93V156C93 159.314 90.3137 162 87 162H78V153Z" fill="#CFCFCF"></path>
+<text id="__text__211__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="82.1094" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#CapsLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_44">
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="1" y="148" width="72" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__215__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.2656" y="173.232">Caps</tspan></text>
+</g>
+<g id="Frame 3_44">
+<path d="M0 153C0 149.686 2.68629 147 6 147H15V156C15 159.314 12.3137 162 9 162H0V153Z" fill="#CFCFCF"></path>
+<text id="__text__216__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="159.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadAdd">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_45">
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#575757"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="863" y="102" width="40" height="86" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__220__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="879.672" y="150.232">+</tspan></text>
+</g>
+<g id="Frame 3_45">
+<path d="M862 107C862 103.686 864.686 101 868 101H877V110C877 113.314 874.314 116 871 116H862V107Z" fill="#CFCFCF"></path>
+<text id="__text__221__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_46">
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="817" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__225__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="833.672" y="118.232">9
+</tspan><tspan x="821.977" y="136.232">PgUp</tspan></text>
+</g>
+<g id="Frame 3_46">
+<path d="M816 107C816 103.686 818.686 101 822 101H831V110C831 113.314 828.314 116 825 116H816V107Z" fill="#CFCFCF"></path>
+<text id="__text__226__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_47">
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="771" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__230__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="787.672" y="118.232">8
+</tspan><tspan x="785" y="136.232">↑</tspan></text>
+</g>
+<g id="Frame 3_47">
+<path d="M770 107C770 103.686 772.686 101 776 101H785V110C785 113.314 782.314 116 779 116H770V107Z" fill="#CFCFCF"></path>
+<text id="__text__231__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Numpad7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_48">
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="725" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__235__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="741.672" y="118.232">7
+</tspan><tspan x="728.119" y="136.232">Home</tspan></text>
+</g>
+<g id="Frame 3_48">
+<path d="M724 107C724 103.686 726.686 101 730 101H739V110C739 113.314 736.314 116 733 116H724V107Z" fill="#CFCFCF"></path>
+<text id="__text__236__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backslash">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_49">
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#575757"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="625" y="102" width="84" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__240__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="663.033" y="127.232">\\|</tspan></text>
+</g>
+<g id="Frame 3_49">
+<path d="M624 107C624 103.686 626.686 101 630 101H639V110C639 113.314 636.314 116 633 116H624V107Z" fill="#CFCFCF"></path>
+<text id="__text__241__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="628.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketRight">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_50">
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="579" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__245__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="594.945" y="127.232">]}</tspan></text>
+</g>
+<g id="Frame 3_50">
+<path d="M578 107C578 103.686 580.686 101 584 101H593V110C593 113.314 590.314 116 587 116H578V107Z" fill="#CFCFCF"></path>
+<text id="__text__246__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="582.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#BracketLeft">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_51">
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="533" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__250__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="548.945" y="127.232">[{</tspan></text>
+</g>
+<g id="Frame 3_51">
+<path d="M532 107C532 103.686 534.686 101 538 101H547V110C547 113.314 544.314 116 541 116H532V107Z" fill="#CFCFCF"></path>
+<text id="__text__251__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="536.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyP">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_52">
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="487" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__255__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="503.203" y="127.232">P</tspan></text>
+</g>
+<g id="Frame 3_52">
+<path d="M486 107C486 103.686 488.686 101 492 101H501V110C501 113.314 498.314 116 495 116H486V107Z" fill="#CFCFCF"></path>
+<text id="__text__256__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="490.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyO">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_53">
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="441" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__260__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="456.547" y="127.232">O</tspan></text>
+</g>
+<g id="Frame 3_53">
+<path d="M440 107C440 103.686 442.686 101 446 101H455V110C455 113.314 452.314 116 449 116H440V107Z" fill="#CFCFCF"></path>
+<text id="__text__261__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="444.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyI">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_54">
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="395" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__265__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="413.242" y="127.232">I</tspan></text>
+</g>
+<g id="Frame 3_54">
+<path d="M394 107C394 103.686 396.686 101 400 101H409V110C409 113.314 406.314 116 403 116H394V107Z" fill="#CFCFCF"></path>
+<text id="__text__266__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="398.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyU">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_55">
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="349" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__270__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="364.676" y="127.232">U</tspan></text>
+</g>
+<g id="Frame 3_55">
+<path d="M348 107C348 103.686 350.686 101 354 101H363V110C363 113.314 360.314 116 357 116H348V107Z" fill="#CFCFCF"></path>
+<text id="__text__271__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="352.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyY">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_56">
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="303" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__275__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="319.812" y="127.232">Y</tspan></text>
+</g>
+<g id="Frame 3_56">
+<path d="M302 107C302 103.686 304.686 101 308 101H317V110C317 113.314 314.314 116 311 116H302V107Z" fill="#CFCFCF"></path>
+<text id="__text__276__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="306.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyT">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_57">
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="257" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__280__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="273.408" y="127.232">T</tspan></text>
+</g>
+<g id="Frame 3_57">
+<path d="M256 107C256 103.686 258.686 101 262 101H271V110C271 113.314 268.314 116 265 116H256V107Z" fill="#CFCFCF"></path>
+<text id="__text__281__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="260.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyR">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_58">
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="211" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__285__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="227.191" y="127.232">R</tspan></text>
+</g>
+<g id="Frame 3_58">
+<path d="M210 107C210 103.686 212.686 101 216 101H225V110C225 113.314 222.314 116 219 116H210V107Z" fill="#CFCFCF"></path>
+<text id="__text__286__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="214.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyE">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_59">
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="165" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__290__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="181.467" y="127.232">E</tspan></text>
+</g>
+<g id="Frame 3_59">
+<path d="M164 107C164 103.686 166.686 101 170 101H179V110C179 113.314 176.314 116 173 116H164V107Z" fill="#CFCFCF"></path>
+<text id="__text__291__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="168.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyW">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_60">
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="119" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__295__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="133.732" y="127.232">W</tspan></text>
+</g>
+<g id="Frame 3_60">
+<path d="M118 107C118 103.686 120.686 101 124 101H133V110C133 113.314 130.314 116 127 116H118V107Z" fill="#CFCFCF"></path>
+<text id="__text__296__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="122.109" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#KeyQ">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_61">
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="73" y="102" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__300__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="88.5469" y="127.232">Q</tspan></text>
+</g>
+<g id="Frame 3_61">
+<path d="M72 107C72 103.686 74.6863 101 78 101H87V110C87 113.314 84.3137 116 81 116H72V107Z" fill="#CFCFCF"></path>
+<text id="__text__301__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="76.1094" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#Tab">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_62">
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="1" y="102" width="66" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__305__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="23.8047" y="127.232">Tab</tspan></text>
+</g>
+<g id="Frame 3_62">
+<path d="M0 107C0 103.686 2.68629 101 6 101H15V110C15 113.314 12.3137 116 9 116H0V107Z" fill="#CFCFCF"></path>
+<text id="__text__306__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="113.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadSubtract">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_63">
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="863" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__310__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="880.92" y="81.232">-</tspan></text>
+</g>
+<g id="Frame 3_63">
+<path d="M862 61C862 57.6863 864.686 55 868 55H877V64C877 67.3137 874.314 70 871 70H862V61Z" fill="#CFCFCF"></path>
+<text id="__text__311__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadMultiply">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_64">
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="817" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__315__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="834.199" y="81.232">*</tspan></text>
+</g>
+<g id="Frame 3_64">
+<path d="M816 61C816 57.6863 818.686 55 822 55H831V64C831 67.3137 828.314 70 825 70H816V61Z" fill="#CFCFCF"></path>
+<text id="__text__316__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumpadDivide">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_65">
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="771" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__320__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="788.65" y="81.232">/</tspan></text>
+</g>
+<g id="Frame 3_65">
+<path d="M770 61C770 57.6863 772.686 55 776 55H785V64C785 67.3137 782.314 70 779 70H770V61Z" fill="#CFCFCF"></path>
+<text id="__text__321__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#NumLock">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_66">
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="725" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__325__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="731.465" y="81.232">Num</tspan></text>
+</g>
+<g id="Frame 3_66">
+<path d="M724 61C724 57.6863 726.686 55 730 55H739V64C739 67.3137 736.314 70 733 70H724V61Z" fill="#CFCFCF"></path>
+<text id="__text__326__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backspace">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_67">
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#575757"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="599" y="56" width="110" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__330__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="624.258" y="81.232">Backspace</tspan></text>
+</g>
+<g id="Frame 3_67">
+<path d="M598 61C598 57.6863 600.686 55 604 55H613V64C613 67.3137 610.314 70 607 70H598V61Z" fill="#CFCFCF"></path>
+<text id="__text__331__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="602.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Equal">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_68">
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="553" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__335__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="566.344" y="81.232">=+</tspan></text>
+</g>
+<g id="Frame 3_68">
+<path d="M552 61C552 57.6863 554.686 55 558 55H567V64C567 67.3137 564.314 70 561 70H552V61Z" fill="#CFCFCF"></path>
+<text id="__text__336__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="556.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Minus">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_69">
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="507" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__340__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="521.568" y="81.232">-_</tspan></text>
+</g>
+<g id="Frame 3_69">
+<path d="M506 61C506 57.6863 508.686 55 512 55H521V64C521 67.3137 518.314 70 515 70H506V61Z" fill="#CFCFCF"></path>
+<text id="__text__341__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="510.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit0">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_70">
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="461" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__345__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="475.645" y="81.232">0)</tspan></text>
+</g>
+<g id="Frame 3_70">
+<path d="M460 61C460 57.6863 462.686 55 466 55H475V64C475 67.3137 472.314 70 469 70H460V61Z" fill="#CFCFCF"></path>
+<text id="__text__346__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="464.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_71">
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="415" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__350__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="429.645" y="81.232">9(</tspan></text>
+</g>
+<g id="Frame 3_71">
+<path d="M414 61C414 57.6863 416.686 55 420 55H429V64C429 67.3137 426.314 70 423 70H414V61Z" fill="#CFCFCF"></path>
+<text id="__text__351__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="418.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_72">
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="369" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__355__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="382.871" y="81.232">8*</tspan></text>
+</g>
+<g id="Frame 3_72">
+<path d="M368 61C368 57.6863 370.686 55 374 55H383V64C383 67.3137 380.314 70 377 70H368V61Z" fill="#CFCFCF"></path>
+<text id="__text__356__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="372.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_73">
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="323" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__360__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="335.594" y="81.232">7&</tspan></text>
+</g>
+<g id="Frame 3_73">
+<path d="M322 61C322 57.6863 324.686 55 328 55H337V64C337 67.3137 334.314 70 331 70H322V61Z" fill="#CFCFCF"></path>
+<text id="__text__361__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="326.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_74">
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="277" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__365__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="290.344" y="81.232">6^</tspan></text>
+</g>
+<g id="Frame 3_74">
+<path d="M276 61C276 57.6863 278.686 55 282 55H291V64C291 67.3137 288.314 70 285 70H276V61Z" fill="#CFCFCF"></path>
+<text id="__text__366__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="280.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_75">
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="231" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__370__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="242.146" y="81.232">5%</tspan></text>
+</g>
+<g id="Frame 3_75">
+<path d="M230 61C230 57.6863 232.686 55 236 55H245V64C245 67.3137 242.314 70 239 70H230V61Z" fill="#CFCFCF"></path>
+<text id="__text__371__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="234.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_76">
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="185" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__375__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="198.344" y="81.232">4$</tspan></text>
+</g>
+<g id="Frame 3_76">
+<path d="M184 61C184 57.6863 186.686 55 190 55H199V64C199 67.3137 196.314 70 193 70H184V61Z" fill="#CFCFCF"></path>
+<text id="__text__376__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="188.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_77">
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="139" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__380__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="152.344" y="81.232">3#</tspan></text>
+</g>
+<g id="Frame 3_77">
+<path d="M138 61C138 57.6863 140.686 55 144 55H153V64C153 67.3137 150.314 70 147 70H138V61Z" fill="#CFCFCF"></path>
+<text id="__text__381__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="142.109" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_78">
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="93" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__385__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="103.994" y="81.232">2@</tspan></text>
+</g>
+<g id="Frame 3_78">
+<path d="M92 61C92 57.6863 94.6863 55 98 55H107V64C107 67.3137 104.314 70 101 70H92V61Z" fill="#CFCFCF"></path>
+<text id="__text__386__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="96.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Digit1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_79">
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="47" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__390__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="61.7324" y="81.232">1!</tspan></text>
+</g>
+<g id="Frame 3_79">
+<path d="M46 61C46 57.6863 48.6863 55 52 55H61V64C61 67.3137 58.3137 70 55 70H46V61Z" fill="#CFCFCF"></path>
+<text id="__text__391__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="50.1094" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Backquote">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_80">
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="1" y="56" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__395__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="14.0332" y="81.232">\`~</tspan></text>
+</g>
+<g id="Frame 3_80">
+<path d="M0 61C0 57.6863 2.68629 55 6 55H15V64C15 67.3137 12.3137 70 9 70H0V61Z" fill="#CFCFCF"></path>
+<text id="__text__396__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="67.572">0</tspan></text>
+</g>
+</g>
+<g id="#Pause">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_81">
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="863" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__400__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="866.336" y="26.232">Pause</tspan></text>
+</g>
+<g id="Frame 3_81">
+<path d="M862 6C862 2.68629 864.686 0 868 0H877V9C877 12.3137 874.314 15 871 15H862V6Z" fill="#CFCFCF"></path>
+<text id="__text__401__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="866.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeUp">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_82">
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="817" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;">
+<g id="Group">
+<path id="Vector" d="M837.945 14.4753C838.062 14.3913 838.2 14.3396 838.343 14.3253C838.487 14.3111 838.632 14.3347 838.763 14.3939C838.895 14.4531 839.009 14.5458 839.093 14.6627C839.178 14.7797 839.23 14.9168 839.246 15.0603L839.25 15.1458V26.8548C839.25 26.9991 839.212 27.1409 839.14 27.2661C839.068 27.3912 838.965 27.4953 838.84 27.568C838.716 27.6406 838.574 27.6793 838.43 27.6801C838.285 27.6809 838.143 27.6438 838.018 27.5725L837.946 27.526L833.01 24.0003H831C830.622 24.0004 830.257 23.8575 829.98 23.6002C829.702 23.3429 829.532 22.9902 829.504 22.6128L829.5 22.5003V19.5003C829.5 19.122 829.643 18.7577 829.9 18.4804C830.158 18.203 830.51 18.0332 830.888 18.0048L831 18.0003H833.01L837.945 14.4753Z" fill="white"></path>
+</g>
+<path id="Vector_2" d="M843.562 18.9505L843.562 20.4503L845.062 20.4503C845.162 20.4486 845.261 20.4667 845.353 20.5036C845.446 20.5405 845.53 20.5955 845.601 20.6653C845.672 20.7351 845.728 20.8183 845.767 20.9102C845.805 21.002 845.825 21.1006 845.825 21.2002C845.825 21.2998 845.805 21.3984 845.767 21.4902C845.728 21.5821 845.672 21.6653 845.601 21.7351C845.53 21.8049 845.446 21.8599 845.353 21.8968C845.261 21.9337 845.162 21.9518 845.062 21.9501L843.562 21.9501V23.4499C843.563 23.6488 843.484 23.8396 843.343 23.9804C843.202 24.1211 843.012 24.2002 842.813 24.2003C842.614 24.2003 842.423 24.1214 842.282 23.9807C842.141 23.8401 842.062 23.6493 842.062 23.4504L842.063 21.9501L840.562 21.9506C840.363 21.9505 840.173 21.8714 840.032 21.7307C839.891 21.59 839.812 21.3991 839.813 21.2002C839.813 21.0012 839.892 20.8105 840.032 20.6698C840.173 20.5292 840.364 20.4502 840.563 20.4503L842.063 20.4503L842.063 18.9505C842.061 18.851 842.079 18.752 842.116 18.6595C842.153 18.567 842.208 18.4828 842.278 18.4118C842.347 18.3408 842.431 18.2844 842.523 18.2458C842.614 18.2073 842.713 18.1875 842.813 18.1875C842.912 18.1875 843.011 18.2073 843.103 18.2458C843.194 18.2844 843.278 18.3408 843.347 18.4118C843.417 18.4828 843.472 18.567 843.509 18.6595C843.546 18.752 843.564 18.851 843.562 18.9505Z" fill="white"></path>
+</g>
+</g>
+<g id="Frame 3_82">
+<path d="M816 6C816 2.68629 818.686 0 822 0H831V9C831 12.3137 828.314 15 825 15H816V6Z" fill="#CFCFCF"></path>
+<text id="__text__406__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="820.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#AudioVolumeDown">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_83">
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="771" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;_2">
+<g id="Group_2">
+<path id="Vector_3" d="M791.945 14.4743C792.062 14.3904 792.2 14.3386 792.343 14.3244C792.487 14.3101 792.632 14.3337 792.763 14.3929C792.895 14.4521 793.009 14.5448 793.093 14.6618C793.178 14.7787 793.23 14.9158 793.245 15.0593L793.25 15.1448V26.8538C793.25 26.9981 793.212 27.14 793.14 27.2651C793.068 27.3902 792.965 27.4943 792.84 27.567C792.715 27.6396 792.574 27.6783 792.43 27.6791C792.285 27.6799 792.143 27.6428 792.018 27.5716L791.946 27.5251L787.01 23.9993H785C784.622 23.9994 784.257 23.8565 783.98 23.5992C783.702 23.3419 783.532 22.9892 783.504 22.6118L783.5 22.4993V19.4993C783.5 19.121 783.643 18.7567 783.9 18.4794C784.158 18.2021 784.51 18.0322 784.887 18.0038L785 17.9993H787.01L791.945 14.4743Z" fill="white"></path>
+</g>
+<rect id="Rectangle 59" x="793.812" y="20.4375" width="6.01312" height="1.51312" rx="0.756562" fill="white"></rect>
+</g>
+</g>
+<g id="Frame 3_83">
+<path d="M770 6C770 2.68629 772.686 0 776 0H785V9C785 12.3137 782.314 15 779 15H770V6Z" fill="#CFCFCF"></path>
+<text id="__text__411__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="774.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Home">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_84">
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="725" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__415__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="728.119" y="26.232">Home</tspan></text>
+</g>
+<g id="Frame 3_84">
+<path d="M724 6C724 2.68629 726.686 0 730 0H739V9C739 12.3137 736.314 15 733 15H724V6Z" fill="#CFCFCF"></path>
+<text id="__text__416__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="728.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Delete">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_85">
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="669" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__420__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="679.842" y="26.232">Del</tspan></text>
+</g>
+<g id="Frame 3_85">
+<path d="M668 6C668 2.68629 670.686 0 674 0H683V9C683 12.3137 680.314 15 677 15H668V6Z" fill="#CFCFCF"></path>
+<text id="__text__421__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="672.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F12">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_86">
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="601" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__425__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="611.033" y="26.232">F12</tspan></text>
+</g>
+<g id="Frame 3_86">
+<path d="M600 6C600 2.68629 602.686 0 606 0H615V9C615 12.3137 612.314 15 609 15H600V6Z" fill="#CFCFCF"></path>
+<text id="__text__426__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="604.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F11">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_87">
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="555" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__430__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="565.033" y="26.232">F11</tspan></text>
+</g>
+<g id="Frame 3_87">
+<path d="M554 6C554 2.68629 556.686 0 560 0H569V9C569 12.3137 566.314 15 563 15H554V6Z" fill="#CFCFCF"></path>
+<text id="__text__431__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="558.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F10">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_88">
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="509" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__435__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="519.033" y="26.232">F10</tspan></text>
+</g>
+<g id="Frame 3_88">
+<path d="M508 6C508 2.68629 510.686 0 514 0H523V9C523 12.3137 520.314 15 517 15H508V6Z" fill="#CFCFCF"></path>
+<text id="__text__436__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="512.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F9">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_89">
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="463" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__440__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="476.361" y="26.232">F9</tspan></text>
+</g>
+<g id="Frame 3_89">
+<path d="M462 6C462 2.68629 464.686 0 468 0H477V9C477 12.3137 474.314 15 471 15H462V6Z" fill="#CFCFCF"></path>
+<text id="__text__441__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="466.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F8">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_90">
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="401" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__445__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="414.361" y="26.232">F8</tspan></text>
+</g>
+<g id="Frame 3_90">
+<path d="M400 6C400 2.68629 402.686 0 406 0H415V9C415 12.3137 412.314 15 409 15H400V6Z" fill="#CFCFCF"></path>
+<text id="__text__446__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="404.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F7">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_91">
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="355" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__450__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="368.361" y="26.232">F7</tspan></text>
+</g>
+<g id="Frame 3_91">
+<path d="M354 6C354 2.68629 356.686 0 360 0H369V9C369 12.3137 366.314 15 363 15H354V6Z" fill="#CFCFCF"></path>
+<text id="__text__451__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="358.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F6">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_92">
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="309" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__455__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="322.361" y="26.232">F6</tspan></text>
+</g>
+<g id="Frame 3_92">
+<path d="M308 6C308 2.68629 310.686 0 314 0H323V9C323 12.3137 320.314 15 317 15H308V6Z" fill="#CFCFCF"></path>
+<text id="__text__456__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="312.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F5">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_93">
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="263" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__460__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="276.361" y="26.232">F5</tspan></text>
+</g>
+<g id="Frame 3_93">
+<path d="M262 6C262 2.68629 264.686 0 268 0H277V9C277 12.3137 274.314 15 271 15H262V6Z" fill="#CFCFCF"></path>
+<text id="__text__461__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="266.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F4">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_94">
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="201" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__465__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="214.361" y="26.232">F4</tspan></text>
+</g>
+<g id="Frame 3_94">
+<path d="M200 6C200 2.68629 202.686 0 206 0H215V9C215 12.3137 212.314 15 209 15H200V6Z" fill="#CFCFCF"></path>
+<text id="__text__466__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="204.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F3">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_95">
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="155" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__470__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="168.361" y="26.232">F3</tspan></text>
+</g>
+<g id="Frame 3_95">
+<path d="M154 6C154 2.68629 156.686 0 160 0H169V9C169 12.3137 166.314 15 163 15H154V6Z" fill="#CFCFCF"></path>
+<text id="__text__471__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="158.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F2">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_96">
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="109" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__475__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="122.361" y="26.232">F2</tspan></text>
+</g>
+<g id="Frame 3_96">
+<path d="M108 6C108 2.68629 110.686 0 114 0H123V9C123 12.3137 120.314 15 117 15H108V6Z" fill="#CFCFCF"></path>
+<text id="__text__476__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="112.109" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#F1">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_97">
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="63" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__480__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="76.3613" y="26.232">F1</tspan></text>
+</g>
+<g id="Frame 3_97">
+<path d="M62 6C62 2.68629 64.6863 0 68 0H77V9C77 12.3137 74.3137 15 71 15H62V6Z" fill="#CFCFCF"></path>
+<text id="__text__481__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="66.1094" y="12.572">0</tspan></text>
+</g>
+</g>
+<g id="#Escape">
+<g id="&#232;&#153;&#154;&#230;&#139;&#159;&#230;&#140;&#137;&#233;&#148;&#174;_98">
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#575757"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" fill="#FE4545" fill-opacity="0.6"></rect>
+<rect x="1" y="1" width="40" height="40" rx="5" stroke="#CFCFCF" stroke-width="2"></rect>
+<text id="__text__485__" fill="white" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="Source Han Sans SC-Regular" font-weight="400"><tspan x="11.6016" y="26.232">Esc</tspan></text>
+</g>
+<g id="Frame 3_98">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H15V9C15 12.3137 12.3137 15 9 15H0V6Z" fill="#CFCFCF"></path>
+<text id="__text__486__" fill="#3E3E3E" xml:space="preserve" style="white-space: pre" font-size="12" letter-spacing="0em" font-family="MiSans-Medium" font-weight="500"><tspan x="4.10938" y="12.572">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+</svg>`;export{t as default};

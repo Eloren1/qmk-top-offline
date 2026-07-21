@@ -1,0 +1,1 @@
+import{g as i,r as t,N as a}from"./index.21fdd5d3.js";const p=()=>{const e=i.keyboardLanguage,[s,l]=t.useState(a(e,!1)),[o,u]=t.useState(a(e,!0));return t.useEffect(()=>{l(a(e,!1)),u(a(e,!0))},[e]),{multilingualKeyCodeDisplayText:s,multilingualKeyCodeToDisplayText_wrap:o}};export{p as u};

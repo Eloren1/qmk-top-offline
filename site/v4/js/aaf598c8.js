@@ -1,0 +1,1 @@
+import{a9 as e}from"./index.21fdd5d3.js";const o={menu_模式:{type:"svg",str:await e(()=>import("./fc4005bd.js"),[],import.meta.url).then(t=>t.default),id:{current:{icon:"g",text:"text"},current_hover:{icon:"g",text:"text"},default:{icon:"g",text:"text"},hover:{icon:"g",text:"text"}}}};export{o as _menu_模式};

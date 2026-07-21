@@ -1,0 +1,1 @@
+import{CommonMSCH585 as _}from"./5e68f4a8.js";import"./index.21fdd5d3.js";class e extends _{defaultMatrix=[1,0,240,0,1,0,241,0,1,0,242,0,1,0,244,0,1,0,243,0,20,0,0,0,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,249,1,1,0,249,255,1,0,245,1,1,0,245,255]}export{e as Ry6608_qfn48_yj_ms955_yj_zc28_light_led_3950_8k_8k_3m};

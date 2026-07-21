@@ -6,15 +6,17 @@ as a Windows desktop app. Keeps working after qmk.top goes away.
 **[Download (ZIP)](https://github.com/Eloren1/qmk-top-offline/archive/refs/heads/master.zip)**
 · original web driver: <https://qmk.top>
 
-Supported models:
+Supported models: **~840**, including the Xinmeng **Zero68** (the vendor database calls
+it `K68`). qmk.top is really two configurators — 11 boards in the main one, 829 in the
+V4 one — and both are mirrored here. The app switches between them automatically when you
+plug in. Full list and device IDs: [DEV.md](DEV.md).
 
 GK6940GW · NYX60 · KF109 · RY60Pro · 16K · Core68HE · MOD68 optical · Bear75 v3 ·
-Beat68 · SK75 · SK80
+Beat68 · SK75 · SK80 · *+829 more*
 
 Not QMK firmware, and unrelated to the QMK project — qmk.top is a vendor configurator
 (GearHub / RongYuan / JINGSU) driven over WebHID. The vendor's own sites title themselves
-"Quantum Mechanical Kit"; the resemblance to QMK's "Quantum Mechanical Keyboard" is
-borrowed, not a relationship.
+"Quantum Mechanical Kit"
 
 ## Why
 
@@ -39,7 +41,7 @@ so it even runs from a USB stick and uninstalls by being deleted.
 
 ## Why it works offline
 
-- The whole keyboard database is compiled into the JS bundle — device IDs, layouts,
+- The whole keyboard database is compiled into the JS bundles — device IDs, layouts,
   magnetic parameters, key codes. Nothing is fetched.
 - All keyboard communication is local over WebHID. No cloud round-trip.
 - The vendor APIs only serve the community image gallery and its accounts. Losing

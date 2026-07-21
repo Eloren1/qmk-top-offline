@@ -7,8 +7,10 @@ Internals, build process and archive design. User-facing docs: [README.md](READM
 | Path | What |
 |---|---|
 | `!RUN.bat` | User entry point: extracts on first run, then launches. Named to sort first |
-| `site/` | Mirrored website (HTML, JS bundle, images) |
+| `site/` | Mirrored root app — V5 configurator (HTML, JS bundle, images) |
 | `site/index.F83-77QO.js.orig` | Untouched original bundle, before patching |
+| `site/v4/` | Mirrored **V4 driver app** (`qmk.top/v4/`) — separate SPA, 829 devices |
+| `site/v4/js/*.orig`, `site/v4/index.html.orig` | Untouched V4 originals |
 | `main.js` | Electron entry: server, window, WebHID wiring |
 | `server-core.js` | Local HTTP server + API record/replay cache |
 | `serve.js` | Standalone server for the browser fallback |
@@ -56,7 +58,9 @@ the better archive format anyway.
 
 ## Bundle patches
 
-Four edits to the mirrored bundle. `.orig` is preserved, so every change diffs.
+Every `.orig` is preserved, so each change diffs.
+
+### Root app (`site/index.F83-77QO.js`)
 
 1. `https://api2.qmk.top:3814/v1` → `/__api3814/v1`
 2. `https://api2.qmk.top:3816` → `/__api3816`
@@ -71,6 +75,90 @@ Four edits to the mirrored bundle. `.orig` is preserved, so every change diffs.
    path the public site actually exercises.
 4. `window.location.hostname.includes("qmk.top")` forced `true`, to keep qmk.top
    branding instead of falling back to gearhub.top.
+5. `sT = "https://qmk.top/v4"` → `sT = "/v4/"` — the V4 handoff, see below.
+
+### V4 app (`site/v4/js/index.21fdd5d3.js`)
+
+6. Same API-host rewrites as 1–2.
+7. Electron-detection flag (`We`) forced `!1`, same reasoning as 3. This also disables
+   every `CONFIG.json` read, since all of them sit behind `window.require("fs")`.
+8. `index.html`: Baidu analytics (`hm.baidu.com`) block removed. The root app carries no
+   such tracker; the V4 page did.
+
+## The two apps
+
+`qmk.top` serves two separate single-page apps, and the archive needs both.
+
+| | root (V5) | `/v4/` |
+|---|---|---|
+| Devices | 11 | 829 |
+| Mount point | `#root` | `#app` |
+| `document.title` | GearHub-V5 | GearHub |
+| Transport | WebHID | WebHID |
+
+The root bundle routes between them:
+
+```js
+___isV4Device  = n => n.company === "v4" || !ph.some(e => e.id === n.id)
+___openV4Driver = () => { window.location.href = sT }
+```
+
+`ph` is the 11-device list, so **anything not in those 11 is treated as a V4 device** and
+handed off. Unpatched that navigates to `https://qmk.top/v4`, which is fatal offline — the
+majority of supported boards would dead-end. Patch 5 makes the handoff local.
+
+`server-core.js` must therefore fall back to the *right* `index.html`: a miss under `/v4/`
+serves `site/v4/index.html`, anything else serves `site/index.html`. Without that split,
+`/v4/` hits the generic SPA fallback, re-serves the root app, and the handoff loops.
+
+### Device routing, all three tiers
+
+```
+root app (11 boards)
+   └─ not one of the 11 ──▶ /v4/ (829 boards)
+                              └─ not one of the 829 ──▶ offers iotdriver.qmk.top
+```
+
+That last tier is a dead end offline, and deliberately so: `iotdriver.qmk.top` has **no
+WebHID at all** (`requestDevice`, `sendFeatureReport`, `navigator.hid`: zero occurrences).
+It drives keyboards through the native `iot_driver` service on `127.0.0.1:3838`/`:6015`,
+so it cannot be archived as a standalone web app no matter how completely it is mirrored.
+Its 1380 entries are mostly rebadges — 393 rongyuan, 233 akko, 137 EPOMAKER, and a long
+tail of ~100 brands over the same ODM chassis. See `drivers/README.md`.
+
+### Code splitting
+
+The V4 app is code-split hard: `index.21fdd5d3.js` plus **3895 lazily imported chunks** in
+`site/v4/js/`, one per device family (`findRy5088Device` → `d7542f3b.js`, and so on).
+They are fetched on demand, so a partial mirror boots to the loading bar and stalls at a
+percentage rather than failing loudly. `npm run selftest` checks both apps for this reason.
+
+Chunk references are **transitive** — chunks import other chunks that the entry bundle
+never names. Mirroring took three passes to reach closure: 1674 named by the entry bundle,
+2220 more named by those, then 4 stragglers. To re-verify closure:
+
+```
+cd site/v4/js
+cat *.js | grep -oE '[0-9a-f]{8}\.js' | sort -u > /tmp/refs
+ls | grep -E '^[0-9a-f]{8}\.js$' | sort > /tmp/have
+comm -23 /tmp/refs /tmp/have     # expect only 21fdd5d3.js and 8aedde6e.js
+```
+
+`21fdd5d3.js` is the entry bundle itself (it lives at `js/index.21fdd5d3.js`); `8aedde6e.js`
+does not exist upstream — both are expected residue, not gaps.
+
+### Size
+
+`site/v4/` is **603 MB** uncompressed, dominated by ~900 chunks of 100 KB–1 MB that are
+inline SVG keyboard renderings, one full vector drawing per layout. They are nearly
+identical to each other, so a solid LZMA2 archive deduplicates them almost entirely —
+measured **179:1** on the 60 largest. The uncompressed footprint is alarming; the
+committed archive is not.
+
+Not rewritten, and harmless: `oldDriverUrl` → `iotdriver.qmk.top`, and a `gear-lab` link
+that calls `window.open(..., "_self")`. Both are user-initiated navigations to pages that
+were never archivable. The `_self` one will blank the window if clicked offline; restart
+the app.
 
 ## API cache
 
@@ -166,6 +254,15 @@ git add release SHA256SUMS && git commit
 `.gitattributes` marks `site/` and `drivers/` binary — otherwise CRLF normalisation
 would make a fresh clone differ from what was downloaded. Verified: the blob git stores
 for `index.F83-77QO.js.orig` hashes the same as the file on disk.
+
+**Rule order matters here.** For a given attribute the *last* matching pattern wins, so
+`site/** -text` has to come after `*.js text` or every mirrored `.js` silently goes back
+to being normalised. The `.orig` files hid this for a while, since `*.js` does not match
+`.orig`. Check with:
+
+```
+git check-attr text -- site/v4/js/d7542f3b.js    # must print: text: unset
+```
 
 `SHA256SUMS` covers every archived file: `sha256sum -c SHA256SUMS`.
 

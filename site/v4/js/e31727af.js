@@ -1,0 +1,1 @@
+import{CommonMs8KPan1080 as o}from"./114ce62a.js";import"./2a13c731.js";import"./index.21fdd5d3.js";class s extends o{defaultMatrix=[1,0,240,0,5,0,3,0,1,0,244,0,1,0,242,0,10,5,0,0,20,0,2,0,1,0,241,0,1,0,243,0,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,249,1,1,0,249,255,1,0,245,1,1,0,245,255]}export{s as Mouse_m11b_3950_8k_8k};

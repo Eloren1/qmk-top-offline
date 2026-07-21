@@ -1,0 +1,1 @@
+import{a9 as _}from"./index.21fdd5d3.js";const e={menu_模式_icon_current:{type:"svg",str:await _(()=>import("./49fa1a00.js"),[],import.meta.url).then(t=>t.default),id:{舒适模式:{},灵敏模式:{},自定义模式:{},游戏模式:{}}}};export{e as _menu_模式_icon_current};

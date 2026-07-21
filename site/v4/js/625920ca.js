@@ -1,0 +1,1 @@
+import{CommonMsNRF54L as o}from"./ecf8f5e7.js";import"./index.21fdd5d3.js";import"./5e68f4a8.js";class e extends o{defaultMatrix=[1,0,240,0,1,0,241,0,1,0,242,0,1,0,244,0,1,0,243,0,20,0,0,0,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,249,1,1,0,249,255,1,0,245,1,1,0,245,255]}export{e as Mouse_nrf54l15_akko_m0016_3950_8k_8k_3m};

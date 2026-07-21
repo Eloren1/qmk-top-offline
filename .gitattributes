@@ -1,15 +1,18 @@
-# Archived vendor files must round-trip through git byte-identically. Without
-# this, git's CRLF normalisation would rewrite the mirrored bundle on checkout
-# and a fresh clone would no longer match what was actually downloaded from
-# qmk.top -- which defeats the point of keeping index.F83-77QO.js.orig.
-site/**        -text
-drivers/**     -text
-build/**       -text
-bundled-cache/**/*.json -text
-
 # Our own sources can be normalised normally.
 *.js       text
 *.json     text
 *.md       text
 *.bat      text eol=crlf
 .gitignore text
+
+# Archived vendor files must round-trip through git byte-identically. Without
+# this, git's CRLF normalisation would rewrite the mirrored bundles on checkout
+# and a fresh clone would no longer match what was actually downloaded from
+# qmk.top -- which defeats the point of keeping the .orig files.
+#
+# These come LAST on purpose: for a given attribute the last matching pattern
+# wins, so listing them after "*.js text" is what keeps site/**/*.js binary.
+site/**        -text
+drivers/**     -text
+build/**       -text
+bundled-cache/**/*.json -text

@@ -1,0 +1,1 @@
+import{r as t,j as i}from"./index.21fdd5d3.js";const n=t.createContext({isParentAnimating:!1,setIsParentAnimating:()=>{}}),o=({children:e})=>{const[s,a]=t.useState(!1);return i.jsx(n.Provider,{value:{isParentAnimating:s,setIsParentAnimating:a},children:e})},m=()=>t.useContext(n);export{o as A,m as u};
