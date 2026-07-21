@@ -7,21 +7,18 @@ const { startServer } = require('./server-core');
 
 const SITE_DIR = path.join(__dirname, 'site');
 
-// Two cache layers. bundled-cache ships inside the app, so anyone who receives
-// a copy of this archive already has everything recorded before packaging.
-// api-cache sits next to the executable, stays writable, and grows as you use
-// the app. Both travel with the folder, so the archive stays self-contained.
+// bundled-cache ships inside the app; api-cache sits next to the executable and
+// stays writable. Both travel with the folder, so the archive is self-contained.
 const BUNDLED_CACHE_DIR = path.join(__dirname, 'bundled-cache');
 const CACHE_DIR = app.isPackaged
   ? path.join(path.dirname(app.getPath('exe')), 'api-cache')
   : path.join(__dirname, 'api-cache');
 
-// QMKTOP_OFFLINE=1 forces pure replay, never touching the network.
 const FORCE_OFFLINE = process.env.QMKTOP_OFFLINE === '1';
 
 // These keyboards expose a vendor-defined HID collection for configuration.
-// Chromium's HID blocklist exists to stop drive-by websites; this app only
-// ever loads local files, so it is not the relevant defence here.
+// Chromium's blocklist exists to stop drive-by websites; this app only ever
+// loads local files, so it is not the relevant defence here.
 app.commandLine.appendSwitch('disable-hid-blocklist');
 
 function describe(d) {
@@ -91,7 +88,6 @@ async function createWindow() {
 
   wireHid(mainWindow);
 
-  // Outbound links go to the real browser instead of hijacking the app window.
   mainWindow.webContents.setWindowOpenHandler(({ url }) => {
     if (/^https?:/i.test(url)) shell.openExternal(url);
     return { action: 'deny' };
@@ -101,7 +97,6 @@ async function createWindow() {
   mainWindow.on('closed', () => { mainWindow = null; });
 }
 
-// Minimal menu, mostly so reload and devtools stay reachable for troubleshooting.
 function buildMenu() {
   Menu.setApplicationMenu(Menu.buildFromTemplate([
     {

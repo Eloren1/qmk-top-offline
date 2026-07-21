@@ -1,11 +1,9 @@
 'use strict';
 
-// Local HTTP server that backs both the Electron app (main.js) and the
-// browser fallback launcher (serve.js).
-//
-// It serves the mirrored site from site/ and intercepts the two API prefixes
-// the bundled JS was patched to use, replaying them from api-cache/ and
-// recording new ones from upstream while upstream still exists.
+// Local HTTP server backing both the Electron app (main.js) and the browser
+// fallback (serve.js). Serves site/ and intercepts the two API prefixes the
+// bundled JS was patched to use, replaying from cache and recording new
+// responses while upstream still exists.
 
 const http = require('http');
 const fs = require('fs');
@@ -79,9 +77,8 @@ function writeCache(file, status, headers, body) {
   }
 }
 
-// Auth endpoints return session tokens and per-user state. Replaying those
-// offline is meaningless and would leave credentials sitting in plaintext
-// JSON on disk, so they are proxied but never recorded.
+// Auth responses carry session tokens. Replaying them offline is meaningless and
+// would leave credentials in plaintext on disk, so they are proxied, never recorded.
 const NEVER_CACHE = [
   '/login', '/logout', '/register', '/change_password',
   '/find_password', '/req_find_password_verify_code', '/get_web_sess'
@@ -130,11 +127,7 @@ async function handleApi(opts, prefix, req, res) {
   const body = await readBody(req);
   const name = cacheFileName(prefix, method, url, body);
 
-  // Two cache layers, searched in order:
-  //   cacheDir        - writable, next to the executable, grows as you browse
-  //   bundledCacheDir - read-only, shipped inside the app, so a fresh copy of
-  //                     this archive already has everything that was recorded
-  //                     before packaging
+  // Writable layer first, then the read-only one shipped inside the app.
   const writable = path.join(opts.cacheDir, name);
   const layers = [writable];
   if (opts.bundledCacheDir) layers.push(path.join(opts.bundledCacheDir, name));

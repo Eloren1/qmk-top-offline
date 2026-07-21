@@ -11,7 +11,7 @@
     "promote-cache": "node promote-cache.js",
     "freeze": "node freeze-app.js",
     "checksums": "node checksums.js",
-    "dist": "electron-packager . \"QMK.top Offline\" --platform=win32 --arch=x64 --out=dist --overwrite --icon=build/icon.ico --app-version=1.0.0 --ignore=\"^/(dist|build|drivers|api-cache|node_modules|selftest\\.js|serve\\.js|launch-chrome\\.bat|README\\.md)\"",
+    "dist": "electron-packager . \"QMK.top Offline\" --platform=win32 --arch=x64 --out=dist --overwrite --icon=build/icon.ico --app-version=1.0.0 --ignore=\"^/(dist|build|drivers|api-cache|node_modules|selftest\\.js|serve\\.js|launch-chrome\\.bat|README\\.md|DEV\\.md)\"",
     "dist:installer": "electron-builder --win --x64"
   },
   "devDependencies": {
