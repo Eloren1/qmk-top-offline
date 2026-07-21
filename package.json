@@ -1,0 +1,54 @@
+{
+  "name": "qmk-top-offline",
+  "productName": "QMK.top Offline",
+  "version": "1.0.0",
+  "description": "Offline archived copy of the qmk.top magnetic-keyboard configurator, packaged as a desktop app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "selftest": "electron selftest.js",
+    "netaudit": "electron netaudit.js",
+    "promote-cache": "node promote-cache.js",
+    "freeze": "node freeze-app.js",
+    "checksums": "node checksums.js",
+    "dist": "electron-packager . \"QMK.top Offline\" --platform=win32 --arch=x64 --out=dist --overwrite --icon=build/icon.ico --app-version=1.0.0 --ignore=\"^/(dist|build|drivers|api-cache|node_modules|selftest\\.js|serve\\.js|launch-chrome\\.bat|README\\.md)\"",
+    "dist:installer": "electron-builder --win --x64"
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.0.3",
+    "electron": "^33.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "top.qmk.offline",
+    "productName": "QMK.top Offline",
+    "files": [
+      "main.js",
+      "server-core.js",
+      "package.json",
+      "site/**/*"
+    ],
+    "win": {
+      "icon": "build/icon.png",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true
+    }
+  }
+}

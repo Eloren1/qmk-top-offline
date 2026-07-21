@@ -1,0 +1,19 @@
+# Restorable with `npm install`.
+node_modules/
+
+# Working copy of the build output (~273 MB, and the .exe alone is 181 MB, past
+# GitHub's 100 MB per-file limit). The app is NOT lost to git, though: it is
+# committed compressed as release/qmk-top-offline-app.7z (72 MB) and restored
+# with restore-app.bat. Regenerate this folder with `npm run dist`, or by
+# restoring the archive.
+dist/
+
+# Scratch cache written at runtime. Anything worth keeping gets promoted into
+# bundled-cache/ (which IS tracked) via `npm run promote-cache`.
+api-cache/
+
+# Logs and editor noise
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN" translate="no" class="notranslate">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="google" content="notranslate" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="./assets/images/logo.wS6nrcWA.png" type="image/x-icon" />
+  <title></title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html,
+    body,
+    #root {
+      width: 100%;
+      height: 100%;
+    }
+
+    div,
+    img,
+    p,
+    sapn {
+      user-select: none;
+    }
+  </style>
+  
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
+<script src="./index.F83-77QO.js"></script>
+</html>

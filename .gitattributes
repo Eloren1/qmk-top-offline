@@ -1,0 +1,15 @@
+# Archived vendor files must round-trip through git byte-identically. Without
+# this, git's CRLF normalisation would rewrite the mirrored bundle on checkout
+# and a fresh clone would no longer match what was actually downloaded from
+# qmk.top -- which defeats the point of keeping index.F83-77QO.js.orig.
+site/**        -text
+drivers/**     -text
+build/**       -text
+bundled-cache/**/*.json -text
+
+# Our own sources can be normalised normally.
+*.js       text
+*.json     text
+*.md       text
+*.bat      text eol=crlf
+.gitignore text
