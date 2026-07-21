@@ -2,6 +2,62 @@
 
 Internals, build process and archive design. User-facing docs: [README.md](README.md).
 
+## How this repo is shaped, and why
+
+Read this first — the layout looks redundant until you know what each half guarantees.
+
+**The repository holds two copies of the same website, on purpose.**
+
+| | `site/` | `release/*.7z.00N` |
+|---|---|---|
+| Form | raw files, readable | compressed program |
+| Size | 607 MB | 155 MB |
+| Purpose | the **archive** | the **runnable app** |
+| Needs to use it | a text editor | nothing at all |
+
+`site/` is the mirrored websites as plain files: HTML, the JS bundles, images, and an
+`.orig` of every patched file. A human ten years from now can read it, diff the patches,
+and re-do them. That is the archival record.
+
+`release/` is that same `site/` already built into a Windows program — plus the ~236 MB of
+Chromium (`*.dll`, `*.pak`, `icudtl.dat`) that Electron needs to run it. `app.asar` inside
+it is 705 MB and contains a full copy of `site/`.
+
+### Why not just commit the source and skip `release/`?
+
+Because Chromium is not in this repository and never will be. It arrives via
+`npm install`, from `node_modules/`, which is gitignored. Drop `release/` and a clone is
+no longer a program — it is a recipe that needs Node, npm, and an npm registry still
+serving Electron 33 a decade from now. That dependency is the exact thing this archive
+exists to escape, so the built binary is committed.
+
+### Why not commit `dist/` unpacked, and skip the compression?
+
+`dist/` is 941 MB and its `.exe` alone is 181 MB. GitHub rejects any single file over
+100 MB, so the built app physically cannot be committed as-is. Compressing it into 95 MB
+volumes is what makes it storable at all. `!RUN.bat` unpacks it once, on first run.
+
+### So what do the scripts actually do?
+
+```
+npm run dist     site/ + main.js + Electron  ──▶  dist/   (941 MB, runnable, gitignored)
+npm run freeze   dist/                       ──▶  release/*.7z.001,.002  (155 MB, committed)
+!RUN.bat         release/*.7z.001            ──▶  dist/   (on the user's machine)
+```
+
+`dist/` is gitignored at both ends: it is a build artifact here, and a restored artifact
+there. Only `site/` (source) and `release/` (product) live in git.
+
+**Editing `site/` does not change the app until you re-run `dist` and `freeze`.** That is
+the single most common way to ship a repo whose source is fixed but whose program is not.
+
+### The cost, stated plainly
+
+`.git` is ~437 MB and every freeze adds another ~155 MB of permanent history. If that ever
+becomes intolerable, the fix is to stop bundling `site/` into `app.asar` and have `main.js`
+read it from beside the executable — one copy instead of two. That trades away the
+"copy the `dist` folder anywhere on its own" property, which is why it has not been done.
+
 ## Layout
 
 | Path | What |
@@ -9,7 +65,7 @@ Internals, build process and archive design. User-facing docs: [README.md](READM
 | `!RUN.bat` | User entry point: extracts on first run, then launches. Named to sort first |
 | `site/` | Mirrored root app — V5 configurator (HTML, JS bundle, images) |
 | `site/index.F83-77QO.js.orig` | Untouched original bundle, before patching |
-| `site/v4/` | Mirrored **V4 driver app** (`qmk.top/v4/`) — separate SPA, 829 devices |
+| `site/v4/` | Mirrored **V4 driver app** (`qmk.top/v4/`) — separate SPA, 688 keyboard models + mice/dongles |
 | `site/v4/js/*.orig`, `site/v4/index.html.orig` | Untouched V4 originals |
 | `main.js` | Electron entry: server, window, WebHID wiring |
 | `server-core.js` | Local HTTP server + API record/replay cache |
@@ -19,7 +75,7 @@ Internals, build process and archive design. User-facing docs: [README.md](READM
 | `api-cache/` | Recorded responses, writable, git-ignored |
 | `bundled-cache/` | Read-only cache baked into the packaged app |
 | `drivers/` | Archived vendor driver installer — not installed |
-| `release/` | Built app, LZMA2-compressed to 72 MB, committed |
+| `release/` | Built app, LZMA2-compressed into 95 MB volumes (155 MB total), committed |
 | `tools/7za.exe` | Standalone extractor, so restore needs nothing installed |
 | `dist/` | Working copy of the build, git-ignored, restorable |
 
@@ -27,7 +83,8 @@ Internals, build process and archive design. User-facing docs: [README.md](READM
 
 `!RUN.bat` is the only thing a user touches. It checks for
 `dist\QMK.top Offline-win32-x64\QMK.top Offline.exe`; if absent it calls
-`restore-app.bat` (which extracts `release/*.7z` into `dist/` with `tools\7za.exe`),
+`restore-app.bat` (which extracts `release/*.7z.001` and its sibling volumes into `dist/`
+with `tools\7za.exe`),
 then launches. Second run onwards, the check passes and it launches directly. The leading
 `!` sorts it to the top of Explorer.
 
@@ -91,7 +148,8 @@ Every `.orig` is preserved, so each change diffs.
 
 | | root (V5) | `/v4/` |
 |---|---|---|
-| Devices | 11 | 829 |
+| Device entries | 11 | 1150 (945 keyboard, 171 mouse, 33 dongle, 1 audio) |
+| Unique names | 11 | 829 — of which **688 are keyboards** |
 | Mount point | `#root` | `#app` |
 | `document.title` | GearHub-V5 | GearHub |
 | Transport | WebHID | WebHID |
@@ -115,7 +173,7 @@ serves `site/v4/index.html`, anything else serves `site/index.html`. Without tha
 
 ```
 root app (11 boards)
-   └─ not one of the 11 ──▶ /v4/ (829 boards)
+   └─ not one of the 11 ──▶ /v4/ (829 devices)
                               └─ not one of the 829 ──▶ offers iotdriver.qmk.top
 ```
 
@@ -198,8 +256,31 @@ qmk.top, and carry Google AdSense.
 
 ## Device table
 
-Extracted from the bundle, not guessed. Note that VID:PID collide across models — the
-firmware reports a name that disambiguates.
+The **root app's 11**, extracted from the bundle, not guessed. Note that VID:PID collide
+across models — the firmware reports a name that disambiguates.
+
+The V4 app's 688 keyboards are not tabulated here; dump them with:
+
+```
+grep -oE 'displayName:"[^"]*"[^}]{0,400}type:"keyboard"' site/v4/js/index.21fdd5d3.js \
+  | sed -E 's/^displayName:"([^"]*)".*/\1/' | sort -u
+```
+
+Drop the `type:"keyboard"` filter to include the 171 mice and 33 dongles.
+
+**Marketing names and database names differ**, which makes searching by the name on the
+box unreliable. Boards are matched on the ID they report, never on their label. Worked
+example — the Zero 68 is stored as `K68`, and its two SKUs are separate entries:
+
+| id | VID | PID | Internal name | Variant |
+|---|---|---|---|---|
+| 3872 | 0x3151 | 0x5029 | `ry5088_zdm_beat68_v2_zero_1m_8k` | wired 8K |
+| 3867 | 0x3151 | 0x5030 | `ry5088_zdm_beat68_v2_zero_3m_8k` | tri-mode |
+
+Both `company:"XinMengK65Keyboard"`, `keyLayout:Common68_ZAP68`, `magnetism:!0`, and both
+are Beat68 v2 derivatives — the same silicon family as the Beat68 in the root table. The
+same pattern repeats across the database, so grep the internal `name:` field rather than
+`displayName:` when a board seems missing.
 
 | VID | PID | Model | Layout |
 |---|---|---|---|
@@ -228,22 +309,32 @@ than one prompts.
 
 **The repository is the archive.** A clone yields a runnable program, not a recipe.
 
-The built folder is 273 MB and its `.exe` alone is 181 MB — past GitHub's 100 MB
+The built folder is 941 MB and its `.exe` alone is 181 MB — past GitHub's 100 MB
 per-file limit, so it cannot be committed raw:
 
-| Format | Size | Under 100 MB? |
+| Format | Size | Fits? |
 |---|---|---|
-| raw folder | 273 MB | no |
-| zip (deflate, max) | 107 MB | no |
-| **7z (LZMA2, max)** | **72 MB** | **yes** |
+| raw folder | 941 MB | no |
+| 7z (LZMA2, max), single file | 155 MB | no — one file over 100 MB |
+| **7z (LZMA2, max), 95 MB volumes** | **95.0 + 59.7 MB** | **yes** |
 
 zip would be preferable for universality, but it does not fit. Committing the
 standalone extractor makes 7z equally self-sufficient.
 
-Verified: extracting into a clean directory reproduces all 73 files, the `.exe` hashes
-identically to the original build (`ca23e8356358…`), and the restored copy launches.
+**The archive is always split**, even when it would fit in one file. `dist/` went from
+273 MB to 941 MB the day the V4 drivers were mirrored, and it will grow again; splitting
+unconditionally removes the cliff and keeps `restore-app.bat` on a single code path.
+`freeze-app.js` exits non-zero if any volume exceeds 100 MB rather than warning, and
+deletes stale volumes first — a leftover `.002` from a larger build would silently corrupt
+the next extraction.
 
-**Only re-freeze when the app actually changed.** Each freeze is a fresh 72 MB blob
+Verified after the V4 mirror: extracting the volumes into a clean directory reproduces all
+73 files, and both `QMK.top Offline.exe` (`5d2741279804…`) and the 705 MB `app.asar` hash
+identically to the build. The asar was confirmed to contain `v4/js/`, the Zero68 entry
+`ry5088_zdm_beat68_v2_zero_1m_8k`, `company_XinMengK65Keyboard`, and the patched
+`sT="/v4/"`.
+
+**Only re-freeze when the app actually changed.** Each freeze is a fresh ~155 MB of blobs
 that git keeps forever.
 
 ```
