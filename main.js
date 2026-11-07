@@ -88,6 +88,22 @@ async function createWindow() {
 
   wireHid(mainWindow);
 
+  // Force the whole UI onto Arial, regular/bold only (no thin or light weights).
+  // Re-applied on every load so SPA navigations and reloads keep the override.
+  const FONT_CSS = `
+    *, *::before, *::after { font-family: Arial, Helvetica, sans-serif !important; }
+    html * { font-weight: 700 !important; }
+    b, strong, h1, h2, h3, h4, h5, h6, th,
+    [class*="bold"], [class*="Bold"] {
+      font-family: "Arial Black", Arial, sans-serif !important;
+      font-weight: 900 !important;
+    }
+  `;
+  const applyFont = () => {
+    if (mainWindow) mainWindow.webContents.insertCSS(FONT_CSS).catch(() => {});
+  };
+  mainWindow.webContents.on('did-finish-load', applyFont);
+
   mainWindow.webContents.setWindowOpenHandler(({ url }) => {
     if (/^https?:/i.test(url)) shell.openExternal(url);
     return { action: 'deny' };
