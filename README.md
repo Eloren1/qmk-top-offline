@@ -25,17 +25,14 @@ Hall-effect keyboards increasingly ship with a web configurator and nothing else
 is a keyboard whose settings depend on someone else paying a hosting bill. Xinmeng was
 the only vendor with the layout I wanted, so instead of trusting the site to survive, the
 site was traced by Claude, mirrored and rebuilt as a standalone program — every domain it touches
-included.
-
-The keyboard should still be configurable in ten years. This is that guarantee. 
-(Well, I have yet to test it on real hardware - the keyboard is still shipping. But it
-looks promising.)
+included. The keyboard should still be configurable in ten years because it saves a snapshot of the whole website.
+qmk.top is a configurator 2 in 1 one as it redirects some keyboards to GearHub. It's all supported here.
 
 ## Run it
 
 Unzip, double-click `!RUN.bat`.
 
-First launch unpacks itself, takes a minute. After that it opens instantly.
+First launch unpacks itself, takes some time. After that it opens instantly.
 
 ## Supported models
 
