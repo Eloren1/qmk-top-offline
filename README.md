@@ -3,8 +3,12 @@
 Offline copy of the **qmk.top** magnetic (Hall-effect) keyboard configurator, packaged
 as a Windows desktop app. Keeps working after qmk.top goes away.
 
+<img width="463" height="322" alt="image" src="https://github.com/user-attachments/assets/93af9a1e-36a7-4692-9d5e-f3f4b5dbef77" />
+
 **[Download (ZIP)](https://github.com/Eloren1/qmk-top-offline/archive/refs/heads/master.zip)**
 · original web driver: <https://qmk.top>
+
+The first launch can take 10-15 minutes while dependencies are downloaded, then it works forever.
 
 ### XINMENG
 
